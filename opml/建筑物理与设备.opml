@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>建筑物理与设备</title>
+  </head>
+  <body>
+    <outline text="​数字密码汇总​ " _mubu_text="%3Cspan%3E%E2%80%8B%3C/span%3E%3Ca%20class=%22mention%20mm-iconfont%22%20target=%22_blank%22%20rel=%22noreferrer%22%20spellcheck=%22false%22%20contenteditable=%22false%22%20href=%22https://mubu.com/doc6b3rH61v2jL%22%20id=%22mention-9076962badbd7b75ad9ee8a0d0d4039e%22%20data-mention=%22%257B%2522id%2522%253A%25229076962badbd7b75ad9ee8a0d0d4039e%2522%252C%2522type%2522%253A2%252C%2522mentionNotify%2522%253Afalse%252C%2522mentionType%2522%253A1%252C%2522token%2522%253A%25226b3rH61v2jL%2522%252C%2522link%2522%253A%2522https%253A%252F%252Fmubu.com%252Fdoc6b3rH61v2jL%2522%252C%2522text%2522%253A%2522%25E6%2595%25B0%25E5%25AD%2597%25E5%25AF%2586%25E7%25A0%2581%25E6%25B1%2587%25E6%2580%25BB%2522%252C%2522textEn%2522%253A%2522%2522%257D%22%20data-type=%221%22%20data-token=%226b3rH61v2jL%22%3E%E6%95%B0%E5%AD%97%E5%AF%86%E7%A0%81%E6%B1%87%E6%80%BB%3C/a%3E%3Cspan%3E%E2%80%8B%20%3C/span%3E" _note="" _mubu_note=""/>
+    <outline text="数字密码" _mubu_text="%3Cspan%3E%E6%95%B0%E5%AD%97%E5%AF%86%E7%A0%81%3C/span%3E" _note="" _mubu_note="">
+      <outline text="0" _mubu_text="%3Cspan%3E0%3C/span%3E" _note="" _mubu_note="">
+        <outline text="lg1=0" _mubu_text="%3Cspan%3Elg1=0%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="1" _mubu_text="%3Cspan%3E1%3C/span%3E" _note="" _mubu_note="">
+          <outline text="一类建筑设防烟楼梯间" _mubu_text="%3Cspan%3E%E4%B8%80%E7%B1%BB%E5%BB%BA%E7%AD%91%E8%AE%BE%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%3C/span%3E" _note="" _mubu_note="">
+            <outline text="和除单元式和通廊式住宅外的" _mubu_text="%3Cspan%3E%E5%92%8C%E9%99%A4%E5%8D%95%E5%85%83%E5%BC%8F%E5%92%8C%E9%80%9A%E5%BB%8A%E5%BC%8F%E4%BD%8F%E5%AE%85%E5%A4%96%E7%9A%84%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="建筑高度超过32m的二类建筑" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E8%B6%85%E8%BF%8732m%E7%9A%84%E4%BA%8C%E7%B1%BB%E5%BB%BA%E7%AD%91%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="塔式住宅，均应设防烟楼梯间。" _mubu_text="%3Cspan%3E%E5%A1%94%E5%BC%8F%E4%BD%8F%E5%AE%85%EF%BC%8C%E5%9D%87%E5%BA%94%E8%AE%BE%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="前室每层设置加压送风防烟" _mubu_text="%3Cspan%3E%E5%89%8D%E5%AE%A4%E6%AF%8F%E5%B1%82%E8%AE%BE%E7%BD%AE%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="安装有管道的侧面与墙面净距不宜小于1.0m（水池（箱）与水池（箱）之间，水池（箱）与墙面之间的净距)" _mubu_text="%3Cspan%3E%E5%AE%89%E8%A3%85%E6%9C%89%E7%AE%A1%E9%81%93%E7%9A%84%E4%BE%A7%E9%9D%A2%E4%B8%8E%E5%A2%99%E9%9D%A2%E5%87%80%E8%B7%9D%E4%B8%8D%E5%AE%9C%E5%B0%8F%E4%BA%8E1.0m%EF%BC%88%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B8%8E%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B9%8B%E9%97%B4%EF%BC%8C%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B8%8E%E5%A2%99%E9%9D%A2%E4%B9%8B%E9%97%B4%E7%9A%84%E5%87%80%E8%B7%9D)%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="给水管穿过承重墙，基础， 洞口上部留缝0.1m" _mubu_text="%3Cspan%3E%E7%BB%99%E6%B0%B4%E7%AE%A1%E7%A9%BF%E8%BF%87%E6%89%BF%E9%87%8D%E5%A2%99%EF%BC%8C%E5%9F%BA%E7%A1%80%EF%BC%8C%20%E6%B4%9E%E5%8F%A3%E4%B8%8A%E9%83%A8%E7%95%99%E7%BC%9D0.1m%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="室外给水 引入管  与污水管 最小净距为1m" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%A4%96%E7%BB%99%E6%B0%B4%20%E5%BC%95%E5%85%A5%E7%AE%A1%20%20%E4%B8%8E%E6%B1%A1%E6%B0%B4%E7%AE%A1%20%E6%9C%80%E5%B0%8F%E5%87%80%E8%B7%9D%E4%B8%BA1m%3C/span%3E" _note="" _mubu_note="">
+              <outline text="+" _mubu_text="%3Cspan%3E+%3C/span%3E" _note="" _mubu_note="">
+                <outline text="给水进户管和引入管的区别" _mubu_text="%3Cspan%3E%E7%BB%99%E6%B0%B4%E8%BF%9B%E6%88%B7%E7%AE%A1%E5%92%8C%E5%BC%95%E5%85%A5%E7%AE%A1%E7%9A%84%E5%8C%BA%E5%88%AB%3C/span%3E" _note="" _mubu_note="">
+                  <outline text="引入管外来水源进入建筑物等，需要管道引入的，这个管道就叫引入管，一般指的是从市政设施接口至使用建筑物的分接、分配等部位" _mubu_text="%3Cspan%3E%E5%BC%95%E5%85%A5%E7%AE%A1%E5%A4%96%E6%9D%A5%E6%B0%B4%E6%BA%90%E8%BF%9B%E5%85%A5%E5%BB%BA%E7%AD%91%E7%89%A9%E7%AD%89%EF%BC%8C%E9%9C%80%E8%A6%81%E7%AE%A1%E9%81%93%E5%BC%95%E5%85%A5%E7%9A%84%EF%BC%8C%E8%BF%99%E4%B8%AA%E7%AE%A1%E9%81%93%E5%B0%B1%E5%8F%AB%E5%BC%95%E5%85%A5%E7%AE%A1%EF%BC%8C%E4%B8%80%E8%88%AC%E6%8C%87%E7%9A%84%E6%98%AF%E4%BB%8E%E5%B8%82%E6%94%BF%E8%AE%BE%E6%96%BD%E6%8E%A5%E5%8F%A3%E8%87%B3%E4%BD%BF%E7%94%A8%E5%BB%BA%E7%AD%91%E7%89%A9%E7%9A%84%E5%88%86%E6%8E%A5%E3%80%81%E5%88%86%E9%85%8D%E7%AD%89%E9%83%A8%E4%BD%8D%3C/span%3E" _note="" _mubu_note=""/>
+                </outline>
+              </outline>
+            </outline>
+            <outline text="水泵吸水馆内流速1m/s" _mubu_text="%3Cspan%3E%E6%B0%B4%E6%B3%B5%E5%90%B8%E6%B0%B4%E9%A6%86%E5%86%85%E6%B5%81%E9%80%9F1m/s%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="气压给水罐顶，到建筑结构最低点，距离不小于1m" _mubu_text="%3Cspan%3E%E6%B0%94%E5%8E%8B%E7%BB%99%E6%B0%B4%E7%BD%90%E9%A1%B6%EF%BC%8C%E5%88%B0%E5%BB%BA%E7%AD%91%E7%BB%93%E6%9E%84%E6%9C%80%E4%BD%8E%E7%82%B9%EF%BC%8C%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%B0%8F%E4%BA%8E1m%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="工业企业建筑生活用水沐浴持续时间1h" _mubu_text="%3Cspan%3E%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%BB%BA%E7%AD%91%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E6%B2%90%E6%B5%B4%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B41h%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="严重危险等级I级，设置自动喷淋系统" _mubu_text="%3Cspan%3E%E4%B8%A5%E9%87%8D%E5%8D%B1%E9%99%A9%E7%AD%89%E7%BA%A7I%E7%BA%A7%EF%BC%8C%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%96%B7%E6%B7%8B%E7%B3%BB%E7%BB%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="一类高层公共建筑，工业建筑，最不利点消火栓的净水压力最小0.1MPa" _mubu_text="%3Cspan%3E%E4%B8%80%E7%B1%BB%E9%AB%98%E5%B1%82%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%EF%BC%8C%E5%B7%A5%E4%B8%9A%E5%BB%BA%E7%AD%91%EF%BC%8C%E6%9C%80%E4%B8%8D%E5%88%A9%E7%82%B9%E6%B6%88%E7%81%AB%E6%A0%93%E7%9A%84%E5%87%80%E6%B0%B4%E5%8E%8B%E5%8A%9B%E6%9C%80%E5%B0%8F0.1MPa%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="独立设置消防水泵房耐火等级一级" _mubu_text="%3Cspan%3E%E7%8B%AC%E7%AB%8B%E8%AE%BE%E7%BD%AE%E6%B6%88%E9%98%B2%E6%B0%B4%E6%B3%B5%E6%88%BF%E8%80%90%E7%81%AB%E7%AD%89%E7%BA%A7%E4%B8%80%E7%BA%A7%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="穿孔板 穿孔率1-3%   板厚1mm吸声效果最好" _mubu_text="%3Cspan%3E%E7%A9%BF%E5%AD%94%E6%9D%BF%20%E7%A9%BF%E5%AD%94%E7%8E%871-3%25%20%20%20%E6%9D%BF%E5%8E%9A1mm%E5%90%B8%E5%A3%B0%E6%95%88%E6%9E%9C%E6%9C%80%E5%A5%BD%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="剧院混响时间1秒" _mubu_text="%3Cspan%3E%E5%89%A7%E9%99%A2%E6%B7%B7%E5%93%8D%E6%97%B6%E9%97%B41%E7%A7%92%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="光源亮度0kcd/平米，遮光角10度" _mubu_text="%3Cspan%3E%E5%85%89%E6%BA%90%E4%BA%AE%E5%BA%A60kcd/%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%81%AE%E5%85%89%E8%A7%9210%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="疏散走道最低照明 1lx" _mubu_text="%3Cspan%3E%E7%96%8F%E6%95%A3%E8%B5%B0%E9%81%93%E6%9C%80%E4%BD%8E%E7%85%A7%E6%98%8E%201lx%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+        </outline>
+        <outline text="2" _mubu_text="%3Cspan%3E2%3C/span%3E" _note="" _mubu_note="">
+          <outline text="需要排烟房间开创面积要达到地面面积的2%" _mubu_text="%3Cspan%3E%E9%9C%80%E8%A6%81%E6%8E%92%E7%83%9F%E6%88%BF%E9%97%B4%E5%BC%80%E5%88%9B%E9%9D%A2%E7%A7%AF%E8%A6%81%E8%BE%BE%E5%88%B0%E5%9C%B0%E9%9D%A2%E9%9D%A2%E7%A7%AF%E7%9A%842%25%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="楼梯间每两到三层设置一个加压送风防烟" _mubu_text="%3Cspan%3E%E6%A5%BC%E6%A2%AF%E9%97%B4%E6%AF%8F%E4%B8%A4%E5%88%B0%E4%B8%89%E5%B1%82%E8%AE%BE%E7%BD%AE%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="给水横管最小坡度0.002-0.005，方向向出水装置" _mubu_text="%3Cspan%3E%E7%BB%99%E6%B0%B4%E6%A8%AA%E7%AE%A1%E6%9C%80%E5%B0%8F%E5%9D%A1%E5%BA%A60.002-0.005%EF%BC%8C%E6%96%B9%E5%90%91%E5%90%91%E5%87%BA%E6%B0%B4%E8%A3%85%E7%BD%AE%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="一个给水单量，等于0.2L/s" _mubu_text="%3Cspan%3E%E4%B8%80%E4%B8%AA%E7%BB%99%E6%B0%B4%E5%8D%95%E9%87%8F%EF%BC%8C%E7%AD%89%E4%BA%8E0.2L/s%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="管道燃烧供电压力最大0.2MPa " _mubu_text="%3Cspan%3E%E7%AE%A1%E9%81%93%E7%87%83%E7%83%A7%E4%BE%9B%E7%94%B5%E5%8E%8B%E5%8A%9B%E6%9C%80%E5%A4%A70.2MPa%20%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="地下液化石油器管，与给排水管，垂直净距0.2m" _mubu_text="%3Cspan%3E%E5%9C%B0%E4%B8%8B%E6%B6%B2%E5%8C%96%E7%9F%B3%E6%B2%B9%E5%99%A8%E7%AE%A1%EF%BC%8C%E4%B8%8E%E7%BB%99%E6%8E%92%E6%B0%B4%E7%AE%A1%EF%BC%8C%E5%9E%82%E7%9B%B4%E5%87%80%E8%B7%9D0.2m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防电梯与普通电梯之间隔墙耐火极限最少2h" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E7%94%B5%E6%A2%AF%E4%B8%8E%E6%99%AE%E9%80%9A%E7%94%B5%E6%A2%AF%E4%B9%8B%E9%97%B4%E9%9A%94%E5%A2%99%E8%80%90%E7%81%AB%E6%9E%81%E9%99%90%E6%9C%80%E5%B0%912h%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防电梯井，排水设施容量最少2立方米" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E7%94%B5%E6%A2%AF%E4%BA%95%EF%BC%8C%E6%8E%92%E6%B0%B4%E8%AE%BE%E6%96%BD%E5%AE%B9%E9%87%8F%E6%9C%80%E5%B0%912%E7%AB%8B%E6%96%B9%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防水泵房，隔墙耐火时间2小时" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E6%B0%B4%E6%B3%B5%E6%88%BF%EF%BC%8C%E9%9A%94%E5%A2%99%E8%80%90%E7%81%AB%E6%97%B6%E9%97%B42%E5%B0%8F%E6%97%B6%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室外消火栓距路边不小于2米" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%A4%96%E6%B6%88%E7%81%AB%E6%A0%93%E8%B7%9D%E8%B7%AF%E8%BE%B9%E4%B8%8D%E5%B0%8F%E4%BA%8E2%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="上人屋顶通气管高出屋面2米" _mubu_text="%3Cspan%3E%E4%B8%8A%E4%BA%BA%E5%B1%8B%E9%A1%B6%E9%80%9A%E6%B0%94%E7%AE%A1%E9%AB%98%E5%87%BA%E5%B1%8B%E9%9D%A22%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="通气管径不小于污水管经的1/2" _mubu_text="%3Cspan%3E%E9%80%9A%E6%B0%94%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%B0%8F%E4%BA%8E%E6%B1%A1%E6%B0%B4%E7%AE%A1%E7%BB%8F%E7%9A%841/2%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="一般民用建筑 屋面雨水排水系统设计重现期2-5年" _mubu_text="%3Cspan%3E%E4%B8%80%E8%88%AC%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%20%E5%B1%8B%E9%9D%A2%E9%9B%A8%E6%B0%B4%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%87%8D%E7%8E%B0%E6%9C%9F2-5%E5%B9%B4%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="音乐厅混响时间2秒" _mubu_text="%3Cspan%3E%E9%9F%B3%E4%B9%90%E5%8E%85%E6%B7%B7%E5%93%8D%E6%97%B6%E9%97%B42%E7%A7%92%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="3" _mubu_text="%3Cspan%3E3%3C/span%3E" _note="" _mubu_note="">
+          <outline text="自然防烟的合用前室，外窗或开口≥3                                                                                                                                                                                                                                                                                                         平米" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E9%98%B2%E7%83%9F%E7%9A%84%E5%90%88%E7%94%A8%E5%89%8D%E5%AE%A4%EF%BC%8C%E5%A4%96%E7%AA%97%E6%88%96%E5%BC%80%E5%8F%A3%E2%89%A53%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E5%B9%B3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="楼梯间每两到三层设置一个加压送风防烟" _mubu_text="%3Cspan%3E%E6%A5%BC%E6%A2%AF%E9%97%B4%E6%AF%8F%E4%B8%A4%E5%88%B0%E4%B8%89%E5%B1%82%E8%AE%BE%E7%BD%AE%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="通气管高出屋面0.3米要设" _mubu_text="%3Cspan%3E%E9%80%9A%E6%B0%94%E7%AE%A1%E9%AB%98%E5%87%BA%E5%B1%8B%E9%9D%A20.3%E7%B1%B3%E8%A6%81%E8%AE%BE%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="lg2=0.3" _mubu_text="%3Cspan%3Elg2=0.3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="线声源距离增加一倍衰减3db" _mubu_text="%3Cspan%3E%E7%BA%BF%E5%A3%B0%E6%BA%90%E8%B7%9D%E7%A6%BB%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%80%8D%E8%A1%B0%E5%87%8F3db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="穿孔板 穿孔率1-3%   板厚1mm吸声效果最好" _mubu_text="%3Cspan%3E%E7%A9%BF%E5%AD%94%E6%9D%BF%20%E7%A9%BF%E5%AD%94%E7%8E%871-3%25%20%20%20%E6%9D%BF%E5%8E%9A1mm%E5%90%B8%E5%A3%B0%E6%95%88%E6%9E%9C%E6%9C%80%E5%A5%BD%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="人对光明适应：3 s " _mubu_text="%3Cspan%3E%E4%BA%BA%E5%AF%B9%E5%85%89%E6%98%8E%E9%80%82%E5%BA%94%EF%BC%9A3%20s%20%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="墙面设计的光反射比0.3-0.8" _mubu_text="%3Cspan%3E%E5%A2%99%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%85%89%E5%8F%8D%E5%B0%84%E6%AF%940.3-0.8%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="人员密集场所最低照度3lx" _mubu_text="%3Cspan%3E%E4%BA%BA%E5%91%98%E5%AF%86%E9%9B%86%E5%9C%BA%E6%89%80%E6%9C%80%E4%BD%8E%E7%85%A7%E5%BA%A63lx%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="厂房混凝土地面，排水铸铁管最小埋深0.4m" _mubu_text="%3Cspan%3E%E5%8E%82%E6%88%BF%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%9C%B0%E9%9D%A2%EF%BC%8C%E6%8E%92%E6%B0%B4%E9%93%B8%E9%93%81%E7%AE%A1%E6%9C%80%E5%B0%8F%E5%9F%8B%E6%B7%B10.4m%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="排水立管与排出管，可采用两个45度弯头，或者半径不小于4倍管径的90度弯头" _mubu_text="%3Cspan%3E%E6%8E%92%E6%B0%B4%E7%AB%8B%E7%AE%A1%E4%B8%8E%E6%8E%92%E5%87%BA%E7%AE%A1%EF%BC%8C%E5%8F%AF%E9%87%87%E7%94%A8%E4%B8%A4%E4%B8%AA45%E5%BA%A6%E5%BC%AF%E5%A4%B4%EF%BC%8C%E6%88%96%E8%80%85%E5%8D%8A%E5%BE%84%E4%B8%8D%E5%B0%8F%E4%BA%8E4%E5%80%8D%E7%AE%A1%E5%BE%84%E7%9A%8490%E5%BA%A6%E5%BC%AF%E5%A4%B4%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="4" _mubu_text="%3Cspan%3E4%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="5" _mubu_text="%3Cspan%3E5%3C/span%3E" _note="" _mubu_note="">
+          <outline text="排烟窗口面积" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E7%AA%97%E5%8F%A3%E9%9D%A2%E7%A7%AF%3C/span%3E" _note="" _mubu_note="">
+            <outline text="固定窗设在中庭，其有效面积不应小于楼面面积的5%；" _mubu_text="%3Cspan%3E%E5%9B%BA%E5%AE%9A%E7%AA%97%E8%AE%BE%E5%9C%A8%E4%B8%AD%E5%BA%AD%EF%BC%8C%E5%85%B6%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E6%A5%BC%E9%9D%A2%E9%9D%A2%E7%A7%AF%E7%9A%845%25%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="室内给水与排水管道平行敷设时，两管间的最小水平净距不得小于0.5m" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%86%85%E7%BB%99%E6%B0%B4%E4%B8%8E%E6%8E%92%E6%B0%B4%E7%AE%A1%E9%81%93%E5%B9%B3%E8%A1%8C%E6%95%B7%E8%AE%BE%E6%97%B6%EF%BC%8C%E4%B8%A4%E7%AE%A1%E9%97%B4%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B0%B4%E5%B9%B3%E5%87%80%E8%B7%9D%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E0.5m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室外给水管道与给水管道的水平最小净距是0.5m" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%A4%96%E7%BB%99%E6%B0%B4%E7%AE%A1%E9%81%93%E4%B8%8E%E7%BB%99%E6%B0%B4%E7%AE%A1%E9%81%93%E7%9A%84%E6%B0%B4%E5%B9%B3%E6%9C%80%E5%B0%8F%E5%87%80%E8%B7%9D%E6%98%AF0.5m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="给水横管最小坡度0.002-0.005，方向向出水装置" _mubu_text="%3Cspan%3E%E7%BB%99%E6%B0%B4%E6%A8%AA%E7%AE%A1%E6%9C%80%E5%B0%8F%E5%9D%A1%E5%BA%A60.002-0.005%EF%BC%8C%E6%96%B9%E5%90%91%E5%90%91%E5%87%BA%E6%B0%B4%E8%A3%85%E7%BD%AE%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室外消火栓了离建筑外墙最少5米" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%A4%96%E6%B6%88%E7%81%AB%E6%A0%93%E4%BA%86%E7%A6%BB%E5%BB%BA%E7%AD%91%E5%A4%96%E5%A2%99%E6%9C%80%E5%B0%915%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防水池最大容量500方" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E6%B0%B4%E6%B1%A0%E6%9C%80%E5%A4%A7%E5%AE%B9%E9%87%8F500%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="地漏顶面标高，低于地面5-10mm" _mubu_text="%3Cspan%3E%E5%9C%B0%E6%BC%8F%E9%A1%B6%E9%9D%A2%E6%A0%87%E9%AB%98%EF%BC%8C%E4%BD%8E%E4%BA%8E%E5%9C%B0%E9%9D%A25-10mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="化粪池距建筑物不小于5米" _mubu_text="%3Cspan%3E%E5%8C%96%E7%B2%AA%E6%B1%A0%E8%B7%9D%E5%BB%BA%E7%AD%91%E7%89%A9%E4%B8%8D%E5%B0%8F%E4%BA%8E5%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="一般民用建筑 屋面雨水排水系统设计重现期2-5年" _mubu_text="%3Cspan%3E%E4%B8%80%E8%88%AC%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%20%E5%B1%8B%E9%9D%A2%E9%9B%A8%E6%B0%B4%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%87%8D%E7%8E%B0%E6%9C%9F2-5%E5%B9%B4%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="穿孔板上加0.05mm 贴膜不影响吸声" _mubu_text="%3Cspan%3E%E7%A9%BF%E5%AD%94%E6%9D%BF%E4%B8%8A%E5%8A%A00.05mm%20%E8%B4%B4%E8%86%9C%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%90%B8%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="地面设计的光反射比最大0.5" _mubu_text="%3Cspan%3E%E5%9C%B0%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%85%89%E5%8F%8D%E5%B0%84%E6%AF%94%E6%9C%80%E5%A4%A70.5%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="平天窗比矩形天窗采光效率增加5倍" _mubu_text="%3Cspan%3E%E5%B9%B3%E5%A4%A9%E7%AA%97%E6%AF%94%E7%9F%A9%E5%BD%A2%E5%A4%A9%E7%AA%97%E9%87%87%E5%85%89%E6%95%88%E7%8E%87%E5%A2%9E%E5%8A%A05%E5%80%8D%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="楼梯间最低水平照度5lx" _mubu_text="%3Cspan%3E%E6%A5%BC%E6%A2%AF%E9%97%B4%E6%9C%80%E4%BD%8E%E6%B0%B4%E5%B9%B3%E7%85%A7%E5%BA%A65lx%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="6" _mubu_text="%3Cspan%3E6%3C/span%3E" _note="" _mubu_note="">
+          <outline text="防烟楼梯间" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%3C/span%3E" _note="" _mubu_note="">
+            <outline text="前室的使用面积：公共建筑、高层厂房(仓库)，不应小于6．0m2" _mubu_text="%3Cspan%3E%E5%89%8D%E5%AE%A4%E7%9A%84%E4%BD%BF%E7%94%A8%E9%9D%A2%E7%A7%AF%EF%BC%9A%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E3%80%81%E9%AB%98%E5%B1%82%E5%8E%82%E6%88%BF(%E4%BB%93%E5%BA%93)%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E6%EF%BC%8E0m2%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="住宅建筑合用前室，不应小于6．0m2" _mubu_text="%3Cspan%3E%E4%BD%8F%E5%AE%85%E5%BB%BA%E7%AD%91%E5%90%88%E7%94%A8%E5%89%8D%E5%AE%A4%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E6%EF%BC%8E0m2%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="管道井工作人员工作净宽度不小于0.6m" _mubu_text="%3Cspan%3E%E7%AE%A1%E9%81%93%E4%BA%95%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B7%A5%E4%BD%9C%E5%87%80%E5%AE%BD%E5%BA%A6%E4%B8%8D%E5%B0%8F%E4%BA%8E0.6m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="挂式小便器，受水部分上边缘离地面0.6米" _mubu_text="%3Cspan%3E%E6%8C%82%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%99%A8%EF%BC%8C%E5%8F%97%E6%B0%B4%E9%83%A8%E5%88%86%E4%B8%8A%E8%BE%B9%E7%BC%98%E7%A6%BB%E5%9C%B0%E9%9D%A20.6%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="生活污水集水池不得小于6小时集水量" _mubu_text="%3Cspan%3E%E7%94%9F%E6%B4%BB%E6%B1%A1%E6%B0%B4%E9%9B%86%E6%B0%B4%E6%B1%A0%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E6%E5%B0%8F%E6%97%B6%E9%9B%86%E6%B0%B4%E9%87%8F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="声压P增加一倍，增加6db" _mubu_text="%3Cspan%3E%E5%A3%B0%E5%8E%8BP%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%80%8D%EF%BC%8C%E5%A2%9E%E5%8A%A06db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="点声源距离增加一倍衰减6db" _mubu_text="%3Cspan%3E%E7%82%B9%E5%A3%B0%E6%BA%90%E8%B7%9D%E7%A6%BB%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%80%8D%E8%A1%B0%E5%87%8F6db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="吸声降噪最多能降6-10db" _mubu_text="%3Cspan%3E%E5%90%B8%E5%A3%B0%E9%99%8D%E5%99%AA%E6%9C%80%E5%A4%9A%E8%83%BD%E9%99%8D6-10db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="7" _mubu_text="%3Cspan%3E7%3C/span%3E" _note="" _mubu_note="">
+          <outline text="水池（箱）与水池（箱）之间，水池（箱）与墙面之间的净距不宜小于0.7m" _mubu_text="%3Cspan%3E%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B8%8E%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B9%8B%E9%97%B4%EF%BC%8C%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B8%8E%E5%A2%99%E9%9D%A2%E4%B9%8B%E9%97%B4%E7%9A%84%E5%87%80%E8%B7%9D%E4%B8%8D%E5%AE%9C%E5%B0%8F%E4%BA%8E0.7m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="水池（箱）周围应有不小于0.7m的检修通道" _mubu_text="%3Cspan%3E%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E5%91%A8%E5%9B%B4%E5%BA%94%E6%9C%89%E4%B8%8D%E5%B0%8F%E4%BA%8E0.7m%E7%9A%84%E6%A3%80%E4%BF%AE%E9%80%9A%E9%81%93%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="两个气压给水罐之间，净距0.7m" _mubu_text="%3Cspan%3E%E4%B8%A4%E4%B8%AA%E6%B0%94%E5%8E%8B%E7%BB%99%E6%B0%B4%E7%BD%90%E4%B9%8B%E9%97%B4%EF%BC%8C%E5%87%80%E8%B7%9D0.7m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="总的：高度小于100米的高层，高层住宅，二类高层公建，最不利点消火栓的净水压力最小0.07MPa" _mubu_text="%3Cspan%3E%E6%80%BB%E7%9A%84%EF%BC%9A%E9%AB%98%E5%BA%A6%E5%B0%8F%E4%BA%8E100%E7%B1%B3%E7%9A%84%E9%AB%98%E5%B1%82%EF%BC%8C%E9%AB%98%E5%B1%82%E4%BD%8F%E5%AE%85%EF%BC%8C%E4%BA%8C%E7%B1%BB%E9%AB%98%E5%B1%82%E5%85%AC%E5%BB%BA%EF%BC%8C%E6%9C%80%E4%B8%8D%E5%88%A9%E7%82%B9%E6%B6%88%E7%81%AB%E6%A0%93%E7%9A%84%E5%87%80%E6%B0%B4%E5%8E%8B%E5%8A%9B%E6%9C%80%E5%B0%8F0.07MPa%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防水带水枪充实水柱一般不小于7米" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E6%B0%B4%E5%B8%A6%E6%B0%B4%E6%9E%AA%E5%85%85%E5%AE%9E%E6%B0%B4%E6%9F%B1%E4%B8%80%E8%88%AC%E4%B8%8D%E5%B0%8F%E4%BA%8E7%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="1-4级顶部采光的采光均匀度(采光系数最低值/采光系数平均值)不宜小于0.7。" _mubu_text="%3Cspan%3E1-4%E7%BA%A7%E9%A1%B6%E9%83%A8%E9%87%87%E5%85%89%E7%9A%84%E9%87%87%E5%85%89%E5%9D%87%E5%8C%80%E5%BA%A6(%E9%87%87%E5%85%89%E7%B3%BB%E6%95%B0%E6%9C%80%E4%BD%8E%E5%80%BC/%E9%87%87%E5%85%89%E7%B3%BB%E6%95%B0%E5%B9%B3%E5%9D%87%E5%80%BC)%E4%B8%8D%E5%AE%9C%E5%B0%8F%E4%BA%8E0.7%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="8" _mubu_text="%3Cspan%3E8%3C/span%3E" _note="" _mubu_note="">
+          <outline text="设有人孔时，水池（箱）顶与建筑结构最低点的净距不得小于0.8m(水池（箱）与水池（箱）之间，水池（箱）与墙面之间的净距）" _mubu_text="%3Cspan%3E%E8%AE%BE%E6%9C%89%E4%BA%BA%E5%AD%94%E6%97%B6%EF%BC%8C%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E9%A1%B6%E4%B8%8E%E5%BB%BA%E7%AD%91%E7%BB%93%E6%9E%84%E6%9C%80%E4%BD%8E%E7%82%B9%E7%9A%84%E5%87%80%E8%B7%9D%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E0.8m(%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B8%8E%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B9%8B%E9%97%B4%EF%BC%8C%E6%B0%B4%E6%B1%A0%EF%BC%88%E7%AE%B1%EF%BC%89%E4%B8%8E%E5%A2%99%E9%9D%A2%E4%B9%8B%E9%97%B4%E7%9A%84%E5%87%80%E8%B7%9D%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室外给水管与排水管道的水平最小净距是0.8m，与雨水管道的水平最小净距是0.8m" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%A4%96%E7%BB%99%E6%B0%B4%E7%AE%A1%E4%B8%8E%E6%8E%92%E6%B0%B4%E7%AE%A1%E9%81%93%E7%9A%84%E6%B0%B4%E5%B9%B3%E6%9C%80%E5%B0%8F%E5%87%80%E8%B7%9D%E6%98%AF0.8m%EF%BC%8C%E4%B8%8E%E9%9B%A8%E6%B0%B4%E7%AE%A1%E9%81%93%E7%9A%84%E6%B0%B4%E5%B9%B3%E6%9C%80%E5%B0%8F%E5%87%80%E8%B7%9D%E6%98%AF0.8m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="音乐厅8隔座位容积率" _mubu_text="%3Cspan%3E%E9%9F%B3%E4%B9%90%E5%8E%858%E9%9A%94%E5%BA%A7%E4%BD%8D%E5%AE%B9%E7%A7%AF%E7%8E%87%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="9" _mubu_text="%3Cspan%3E9%3C/span%3E" _note="" _mubu_note="">
+          <outline text="屋顶设计光反射比0.6-0.9" _mubu_text="%3Cspan%3E%E5%B1%8B%E9%A1%B6%E8%AE%BE%E8%AE%A1%E5%85%89%E5%8F%8D%E5%B0%84%E6%AF%940.6-0.9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="无障碍开关高0.9" _mubu_text="%3Cspan%3E%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%BC%80%E5%85%B3%E9%AB%980.9%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="10" _mubu_text="%3Cspan%3E10%3C/span%3E" _note="" _mubu_note="">
+          <outline text="合用前室消防电梯间前室" _mubu_text="%3Cspan%3E%E5%90%88%E7%94%A8%E5%89%8D%E5%AE%A4%E6%B6%88%E9%98%B2%E7%94%B5%E6%A2%AF%E9%97%B4%E5%89%8D%E5%AE%A4%3C/span%3E" _note="" _mubu_note="">
+            <outline text="不应小于10．0m2" _mubu_text="%3Cspan%3E%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E10%EF%BC%8E0m2%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="加压送风防烟" _mubu_text="%3Cspan%3E%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note="">
+            <outline text="大于100米住宅设置加压送风防烟" _mubu_text="%3Cspan%3E%E5%A4%A7%E4%BA%8E100%E7%B1%B3%E4%BD%8F%E5%AE%85%E8%AE%BE%E7%BD%AE%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="防烟分区挡烟垂壁等挡烟分隔的深度：" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E6%8C%A1%E7%83%9F%E5%9E%82%E5%A3%81%E7%AD%89%E6%8C%A1%E7%83%9F%E5%88%86%E9%9A%94%E7%9A%84%E6%B7%B1%E5%BA%A6%EF%BC%9A%3C/span%3E" _note="" _mubu_note="">
+            <outline text="自然排烟时，不应小于空间净高的20%且不应小于500mm；" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98%E7%9A%8420%25%E4%B8%94%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E500mm%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="机械排烟时，不应小于空间净高的10%且不应小于500mm。" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98%E7%9A%8410%25%E4%B8%94%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E500mm%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="公共建筑内建筑面积大于·100 平米且经常有人停留的地上房间，设置机械排烟" _mubu_text="%3Cspan%3E%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E5%86%85%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E%C2%B7100%20%E5%B9%B3%E7%B1%B3%E4%B8%94%E7%BB%8F%E5%B8%B8%E6%9C%89%E4%BA%BA%E5%81%9C%E7%95%99%E7%9A%84%E5%9C%B0%E4%B8%8A%E6%88%BF%E9%97%B4%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="设置在一、二、三层且房间建筑面积大于 100 m2的歌舞娱乐放映 游艺场所，设置在四层及以上楼层、地下或半地下的歌舞娱乐放映游艺场所。设置机械排烟" _mubu_text="%3Cspan%3E%E8%AE%BE%E7%BD%AE%E5%9C%A8%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%82%E4%B8%94%E6%88%BF%E9%97%B4%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E%20100%20m2%E7%9A%84%E6%AD%8C%E8%88%9E%E5%A8%B1%E4%B9%90%E6%94%BE%E6%98%A0%20%E6%B8%B8%E8%89%BA%E5%9C%BA%E6%89%80%EF%BC%8C%E8%AE%BE%E7%BD%AE%E5%9C%A8%E5%9B%9B%E5%B1%82%E5%8F%8A%E4%BB%A5%E4%B8%8A%E6%A5%BC%E5%B1%82%E3%80%81%E5%9C%B0%E4%B8%8B%E6%88%96%E5%8D%8A%E5%9C%B0%E4%B8%8B%E7%9A%84%E6%AD%8C%E8%88%9E%E5%A8%B1%E4%B9%90%E6%94%BE%E6%98%A0%E6%B8%B8%E8%89%BA%E5%9C%BA%E6%89%80%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="生活引用水池于化粪池最小距离10m" _mubu_text="%3Cspan%3E%E7%94%9F%E6%B4%BB%E5%BC%95%E7%94%A8%E6%B0%B4%E6%B1%A0%E4%BA%8E%E5%8C%96%E7%B2%AA%E6%B1%A0%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BB10m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="甲乙类厂房，超过6层的民用建筑，超过4层的厂房和库房，水枪水柱不小于10米" _mubu_text="%3Cspan%3E%E7%94%B2%E4%B9%99%E7%B1%BB%E5%8E%82%E6%88%BF%EF%BC%8C%E8%B6%85%E8%BF%876%E5%B1%82%E7%9A%84%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%EF%BC%8C%E8%B6%85%E8%BF%874%E5%B1%82%E7%9A%84%E5%8E%82%E6%88%BF%E5%92%8C%E5%BA%93%E6%88%BF%EF%BC%8C%E6%B0%B4%E6%9E%AA%E6%B0%B4%E6%9F%B1%E4%B8%8D%E5%B0%8F%E4%BA%8E10%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="大于150米高层，消防水箱100平米" _mubu_text="%3Cspan%3E%E5%A4%A7%E4%BA%8E150%E7%B1%B3%E9%AB%98%E5%B1%82%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1100%E5%B9%B3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防栓离，高层建筑物外墙最大距离10米" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E6%A0%93%E7%A6%BB%EF%BC%8C%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E7%89%A9%E5%A4%96%E5%A2%99%E6%9C%80%E5%A4%A7%E8%B7%9D%E7%A6%BB10%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="10层及以上高层建筑生活污水立管宜设专用通气立管" _mubu_text="%3Cspan%3E10%E5%B1%82%E5%8F%8A%E4%BB%A5%E4%B8%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E7%94%9F%E6%B4%BB%E6%B1%A1%E6%B0%B4%E7%AB%8B%E7%AE%A1%E5%AE%9C%E8%AE%BE%E4%B8%93%E7%94%A8%E9%80%9A%E6%B0%94%E7%AB%8B%E7%AE%A1%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="吸声降噪最多能降6-10db" _mubu_text="%3Cspan%3E%E5%90%B8%E5%A3%B0%E9%99%8D%E5%99%AA%E6%9C%80%E5%A4%9A%E8%83%BD%E9%99%8D6-10db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="人对光暗适应：10 min" _mubu_text="%3Cspan%3E%E4%BA%BA%E5%AF%B9%E5%85%89%E6%9A%97%E9%80%82%E5%BA%94%EF%BC%9A10%20min%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="11" _mubu_text="%3Cspan%3E11%3C/span%3E" _note="" _mubu_note="">
+          <outline text="消防软管卷盘口径19mm安装高度距地面1.1m" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E8%BD%AF%E7%AE%A1%E5%8D%B7%E7%9B%98%E5%8F%A3%E5%BE%8419mm%E5%AE%89%E8%A3%85%E9%AB%98%E5%BA%A6%E8%B7%9D%E5%9C%B0%E9%9D%A21.1m%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="12" _mubu_text="%3Cspan%3E12%3C/span%3E" _note="" _mubu_note="">
+          <outline text="中庭顶部高窗高度大于12米，设机械排烟" _mubu_text="%3Cspan%3E%E4%B8%AD%E5%BA%AD%E9%A1%B6%E9%83%A8%E9%AB%98%E7%AA%97%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E12%E7%B1%B3%EF%BC%8C%E8%AE%BE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="喷淋系统报警阀安装在距地面1.2m" _mubu_text="%3Cspan%3E%E5%96%B7%E6%B7%8B%E7%B3%BB%E7%BB%9F%E6%8A%A5%E8%AD%A6%E9%98%80%E5%AE%89%E8%A3%85%E5%9C%A8%E8%B7%9D%E5%9C%B0%E9%9D%A21.2m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="二类高层住宅，消防水箱不小于12立方" _mubu_text="%3Cspan%3E%E4%BA%8C%E7%B1%BB%E9%AB%98%E5%B1%82%E4%BD%8F%E5%AE%85%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E4%B8%8D%E5%B0%8F%E4%BA%8E12%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="工业建筑，给水设计流量相当于0L/s时，消防水箱不小于12立方" _mubu_text="%3Cspan%3E%E5%B7%A5%E4%B8%9A%E5%BB%BA%E7%AD%91%EF%BC%8C%E7%BB%99%E6%B0%B4%E8%AE%BE%E8%AE%A1%E6%B5%81%E9%87%8F%E7%9B%B8%E5%BD%93%E4%BA%8E0L/s%E6%97%B6%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E4%B8%8D%E5%B0%8F%E4%BA%8E12%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="13" _mubu_text="%3Cspan%3E13%3C/span%3E" _note="" _mubu_note="">
+          <outline text="高层工业建筑，高架库房内，水枪充实柱子不小于13米" _mubu_text="%3Cspan%3E%E9%AB%98%E5%B1%82%E5%B7%A5%E4%B8%9A%E5%BB%BA%E7%AD%91%EF%BC%8C%E9%AB%98%E6%9E%B6%E5%BA%93%E6%88%BF%E5%86%85%EF%BC%8C%E6%B0%B4%E6%9E%AA%E5%85%85%E5%AE%9E%E6%9F%B1%E5%AD%90%E4%B8%8D%E5%B0%8F%E4%BA%8E13%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="化粪池有效容积按照停留时间计算，12-24小时。" _mubu_text="%3Cspan%3E%E5%8C%96%E7%B2%AA%E6%B1%A0%E6%9C%89%E6%95%88%E5%AE%B9%E7%A7%AF%E6%8C%89%E7%85%A7%E5%81%9C%E7%95%99%E6%97%B6%E9%97%B4%E8%AE%A1%E7%AE%97%EF%BC%8C12-24%E5%B0%8F%E6%97%B6%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="开关高度1.3米" _mubu_text="%3Cspan%3E%E5%BC%80%E5%85%B3%E9%AB%98%E5%BA%A61.3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="14" _mubu_text="%3Cspan%3E14%3C/span%3E" _note="" _mubu_note="">
+          <outline text="垂直方向14度以内炫光影响及其强烈" _mubu_text="%3Cspan%3E%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%9114%E5%BA%A6%E4%BB%A5%E5%86%85%E7%82%AB%E5%85%89%E5%BD%B1%E5%93%8D%E5%8F%8A%E5%85%B6%E5%BC%BA%E7%83%88%3C/span%3E" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="">
+              <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2224116ad90f4304155-2949183%22%2C%22oh%22%3A291%2C%22ow%22%3A280%2C%22uri%22%3A%22document_image%2Fbd55bba6-e448-47f1-9b57-439121f8581b-2949183.jpg%22%7D%5D"/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="15" _mubu_text="%3Cspan%3E15%3C/span%3E" _note="" _mubu_note="">
+          <outline text="排烟口宜使烟流与人流方向相反，" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E5%8F%A3%E5%AE%9C%E4%BD%BF%E7%83%9F%E6%B5%81%E4%B8%8E%E4%BA%BA%E6%B5%81%E6%96%B9%E5%90%91%E7%9B%B8%E5%8F%8D%EF%BC%8C%3C/span%3E" _note="" _mubu_note="">
+            <outline text="且与附近安全出口相邻边缘的水平距离不应小于1.5m。" _mubu_text="%3Cspan%3E%E4%B8%94%E4%B8%8E%E9%99%84%E8%BF%91%E5%AE%89%E5%85%A8%E5%87%BA%E5%8F%A3%E7%9B%B8%E9%82%BB%E8%BE%B9%E7%BC%98%E7%9A%84%E6%B0%B4%E5%B9%B3%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E1.5m%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="水箱进水管溢流管高度差不大于150mm，最好等于管径" _mubu_text="%3Cspan%3E%E6%B0%B4%E7%AE%B1%E8%BF%9B%E6%B0%B4%E7%AE%A1%E6%BA%A2%E6%B5%81%E7%AE%A1%E9%AB%98%E5%BA%A6%E5%B7%AE%E4%B8%8D%E5%A4%A7%E4%BA%8E150mm%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%AD%89%E4%BA%8E%E7%AE%A1%E5%BE%84%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="给排水 地下管线地狱冻土层150mm" _mubu_text="%3Cspan%3E%E7%BB%99%E6%8E%92%E6%B0%B4%20%E5%9C%B0%E4%B8%8B%E7%AE%A1%E7%BA%BF%E5%9C%B0%E7%8B%B1%E5%86%BB%E5%9C%9F%E5%B1%82150mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室内给水与排水管交叉铺设时，垂直净距不得小于0.15m" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%86%85%E7%BB%99%E6%B0%B4%E4%B8%8E%E6%8E%92%E6%B0%B4%E7%AE%A1%E4%BA%A4%E5%8F%89%E9%93%BA%E8%AE%BE%E6%97%B6%EF%BC%8C%E5%9E%82%E7%9B%B4%E5%87%80%E8%B7%9D%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E0.15m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="水泵接合器，和室外消防栓，距离15-40m" _mubu_text="%3Cspan%3E%E6%B0%B4%E6%B3%B5%E6%8E%A5%E5%90%88%E5%99%A8%EF%BC%8C%E5%92%8C%E5%AE%A4%E5%A4%96%E6%B6%88%E9%98%B2%E6%A0%93%EF%BC%8C%E8%B7%9D%E7%A6%BB15-40m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="高度超过100米建筑，最不利点消火栓的净水压力最小0.15MPa" _mubu_text="%3Cspan%3E%E9%AB%98%E5%BA%A6%E8%B6%85%E8%BF%87100%E7%B1%B3%E5%BB%BA%E7%AD%91%EF%BC%8C%E6%9C%80%E4%B8%8D%E5%88%A9%E7%82%B9%E6%B6%88%E7%81%AB%E6%A0%93%E7%9A%84%E5%87%80%E6%B0%B4%E5%8E%8B%E5%8A%9B%E6%9C%80%E5%B0%8F0.15MPa%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="1500座位以上剧场设置自动喷水灭火系统" _mubu_text="%3Cspan%3E1500%E5%BA%A7%E4%BD%8D%E4%BB%A5%E4%B8%8A%E5%89%A7%E5%9C%BA%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%96%B7%E6%B0%B4%E7%81%AD%E7%81%AB%E7%B3%BB%E7%BB%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="音乐厅超过1500隔座位要做两层" _mubu_text="%3Cspan%3E%E9%9F%B3%E4%B9%90%E5%8E%85%E8%B6%85%E8%BF%871500%E9%9A%94%E5%BA%A7%E4%BD%8D%E8%A6%81%E5%81%9A%E4%B8%A4%E5%B1%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="总图降噪可以达到15-24db" _mubu_text="%3Cspan%3E%E6%80%BB%E5%9B%BE%E9%99%8D%E5%99%AA%E5%8F%AF%E4%BB%A5%E8%BE%BE%E5%88%B015-24db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="窗顶光线进来有效深度1.5米" _mubu_text="%3Cspan%3E%E7%AA%97%E9%A1%B6%E5%85%89%E7%BA%BF%E8%BF%9B%E6%9D%A5%E6%9C%89%E6%95%88%E6%B7%B1%E5%BA%A61.5%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="锯齿形天窗比矩形（盒子）天窗效率增加15%" _mubu_text="%3Cspan%3E%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%A4%A9%E7%AA%97%E6%AF%94%E7%9F%A9%E5%BD%A2%EF%BC%88%E7%9B%92%E5%AD%90%EF%BC%89%E5%A4%A9%E7%AA%97%E6%95%88%E7%8E%87%E5%A2%9E%E5%8A%A015%25%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="光源亮度20kcd/平米，遮光角15度" _mubu_text="%3Cspan%3E%E5%85%89%E6%BA%90%E4%BA%AE%E5%BA%A620kcd/%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%81%AE%E5%85%89%E8%A7%9215%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="16" _mubu_text="%3Cspan%3E16%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="17" _mubu_text="%3Cspan%3E17%3C/span%3E" _note="" _mubu_note="">
+          <outline text="反射声减入射声大于17米 有回声" _mubu_text="%3Cspan%3E%E5%8F%8D%E5%B0%84%E5%A3%B0%E5%87%8F%E5%85%A5%E5%B0%84%E5%A3%B0%E5%A4%A7%E4%BA%8E17%E7%B1%B3%20%E6%9C%89%E5%9B%9E%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="18" _mubu_text="%3Cspan%3E18%3C/span%3E" _note="" _mubu_note="">
+          <outline text="二类高层，多层公共建筑，一类高层居住建筑，消防水箱不小于18立方" _mubu_text="%3Cspan%3E%E4%BA%8C%E7%B1%BB%E9%AB%98%E5%B1%82%EF%BC%8C%E5%A4%9A%E5%B1%82%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%EF%BC%8C%E4%B8%80%E7%B1%BB%E9%AB%98%E5%B1%82%E5%B1%85%E4%BD%8F%E5%BB%BA%E7%AD%91%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E4%B8%8D%E5%B0%8F%E4%BA%8E18%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="工业建筑，给水设计流量相当大于25L/s时，消防水箱不小于18立方" _mubu_text="%3Cspan%3E%E5%B7%A5%E4%B8%9A%E5%BB%BA%E7%AD%91%EF%BC%8C%E7%BB%99%E6%B0%B4%E8%AE%BE%E8%AE%A1%E6%B5%81%E9%87%8F%E7%9B%B8%E5%BD%93%E5%A4%A7%E4%BA%8E25L/s%E6%97%B6%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E4%B8%8D%E5%B0%8F%E4%BA%8E18%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="19" _mubu_text="%3Cspan%3E19%3C/span%3E" _note="" _mubu_note="">
+          <outline text="消防软管卷盘口径19mm安装高度距地面1.1m" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E8%BD%AF%E7%AE%A1%E5%8D%B7%E7%9B%98%E5%8F%A3%E5%BE%8419mm%E5%AE%89%E8%A3%85%E9%AB%98%E5%BA%A6%E8%B7%9D%E5%9C%B0%E9%9D%A21.1m%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="20" _mubu_text="%3Cspan%3E20%3C/span%3E" _note="" _mubu_note="">
+          <outline text="防烟分区空间净高&gt;6m：最大面积2000m2，长边的最大长度为60m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;6m%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF2000m2%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA60m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="建筑内长度大于20m的疏散走道。设置机械排烟" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E5%86%85%E9%95%BF%E5%BA%A6%E5%A4%A7%E4%BA%8E20m%E7%9A%84%E7%96%8F%E6%95%A3%E8%B5%B0%E9%81%93%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="地下或半地下建筑（室）、地上建筑内的无窗房间，当总建筑面积大于200平米，设置机械排烟" _mubu_text="%3Cspan%3E%E5%9C%B0%E4%B8%8B%E6%88%96%E5%8D%8A%E5%9C%B0%E4%B8%8B%E5%BB%BA%E7%AD%91%EF%BC%88%E5%AE%A4%EF%BC%89%E3%80%81%E5%9C%B0%E4%B8%8A%E5%BB%BA%E7%AD%91%E5%86%85%E7%9A%84%E6%97%A0%E7%AA%97%E6%88%BF%E9%97%B4%EF%BC%8C%E5%BD%93%E6%80%BB%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E200%E5%B9%B3%E7%B1%B3%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室内消防水管应该环状，除非用水量不超过20L" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%86%85%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%A1%E5%BA%94%E8%AF%A5%E7%8E%AF%E7%8A%B6%EF%BC%8C%E9%99%A4%E9%9D%9E%E7%94%A8%E6%B0%B4%E9%87%8F%E4%B8%8D%E8%B6%85%E8%BF%8720L%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="光源亮度50kcd/平米，遮光角20度" _mubu_text="%3Cspan%3E%E5%85%89%E6%BA%90%E4%BA%AE%E5%BA%A650kcd/%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%81%AE%E5%85%89%E8%A7%9220%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="光源亮度500kcd/平米，遮光角30度" _mubu_text="%3Cspan%3E%E5%85%89%E6%BA%90%E4%BA%AE%E5%BA%A6500kcd/%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%81%AE%E5%85%89%E8%A7%9230%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="21" _mubu_text="%3Cspan%3E21%3C/span%3E" _note="" _mubu_note="">
+          <outline text="建筑高度大于21米多层住宅，消防水箱不小于6立方" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E21%E7%B1%B3%E5%A4%9A%E5%B1%82%E4%BD%8F%E5%AE%85%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E4%B8%8D%E5%B0%8F%E4%BA%8E6%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="22" _mubu_text="%3Cspan%3E22%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="23" _mubu_text="%3Cspan%3E23%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="24" _mubu_text="%3Cspan%3E24%3C/span%3E" _note="" _mubu_note="">
+          <outline text="一类建筑" _mubu_text="%3Cspan%3E%E4%B8%80%E7%B1%BB%E5%BB%BA%E7%AD%91%3C/span%3E" _note="" _mubu_note="">
+            <outline text="建筑高度24m以上部分  且建筑面积大于1000平米" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A624m%E4%BB%A5%E4%B8%8A%E9%83%A8%E5%88%86%20%20%E4%B8%94%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E1000%E5%B9%B3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="空间净高≤3m：最大面积500平米，长边的最大长度为24m；" _mubu_text="%3Cspan%3E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98%E2%89%A43m%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF500%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA24m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="化粪池有效容积按照停留时间计算，12-24小时。" _mubu_text="%3Cspan%3E%E5%8C%96%E7%B2%AA%E6%B1%A0%E6%9C%89%E6%95%88%E5%AE%B9%E7%A7%AF%E6%8C%89%E7%85%A7%E5%81%9C%E7%95%99%E6%97%B6%E9%97%B4%E8%AE%A1%E7%AE%97%EF%BC%8C12-24%E5%B0%8F%E6%97%B6%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="总图降噪可以达到15-24db" _mubu_text="%3Cspan%3E%E6%80%BB%E5%9B%BE%E9%99%8D%E5%99%AA%E5%8F%AF%E4%BB%A5%E8%BE%BE%E5%88%B015-24db%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="25" _mubu_text="%3Cspan%3E25%3C/span%3E" _note="" _mubu_note="">
+          <outline text="水箱顶板到溢水水位空气间隙大于等于 出水水管管径的1.5倍" _mubu_text="%3Cspan%3E%E6%B0%B4%E7%AE%B1%E9%A1%B6%E6%9D%BF%E5%88%B0%E6%BA%A2%E6%B0%B4%E6%B0%B4%E4%BD%8D%E7%A9%BA%E6%B0%94%E9%97%B4%E9%9A%99%E5%A4%A7%E4%BA%8E%E7%AD%89%E4%BA%8E%20%E5%87%BA%E6%B0%B4%E6%B0%B4%E7%AE%A1%E7%AE%A1%E5%BE%84%E7%9A%841.5%E5%80%8D%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防给水管道设计流速不超过2.5m/s" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E7%BB%99%E6%B0%B4%E7%AE%A1%E9%81%93%E8%AE%BE%E8%AE%A1%E6%B5%81%E9%80%9F%E4%B8%8D%E8%B6%85%E8%BF%872.5m/s%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="两根通气管回合时，通气管截面面积，等于两根通气管之和乘以25%" _mubu_text="%3Cspan%3E%E4%B8%A4%E6%A0%B9%E9%80%9A%E6%B0%94%E7%AE%A1%E5%9B%9E%E5%90%88%E6%97%B6%EF%BC%8C%E9%80%9A%E6%B0%94%E7%AE%A1%E6%88%AA%E9%9D%A2%E9%9D%A2%E7%A7%AF%EF%BC%8C%E7%AD%89%E4%BA%8E%E4%B8%A4%E6%A0%B9%E9%80%9A%E6%B0%94%E7%AE%A1%E4%B9%8B%E5%92%8C%E4%B9%98%E4%BB%A525%25%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="26" _mubu_text="%3Cspan%3E26%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="27" _mubu_text="%3Cspan%3E27%3C/span%3E" _note="" _mubu_note="">
+          <outline text="建筑高度大于27m" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E27m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="垂直方向27度以内炫光影响强烈" _mubu_text="%3Cspan%3E%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%9127%E5%BA%A6%E4%BB%A5%E5%86%85%E7%82%AB%E5%85%89%E5%BD%B1%E5%93%8D%E5%BC%BA%E7%83%88%3C/span%3E" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="">
+              <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2224116ad90f4304155-2949183%22%2C%22oh%22%3A291%2C%22ow%22%3A280%2C%22uri%22%3A%22document_image%2Fbd55bba6-e448-47f1-9b57-439121f8581b-2949183.jpg%22%7D%5D"/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="28" _mubu_text="%3Cspan%3E28%3C/span%3E" _note="" _mubu_note="">
+          <outline text="排烟管道及其连接件应能在280℃时连续30min保证结构完整性。" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E7%AE%A1%E9%81%93%E5%8F%8A%E5%85%B6%E8%BF%9E%E6%8E%A5%E4%BB%B6%E5%BA%94%E8%83%BD%E5%9C%A8280%E2%84%83%E6%97%B6%E8%BF%9E%E7%BB%AD30min%E4%BF%9D%E8%AF%81%E7%BB%93%E6%9E%84%E5%AE%8C%E6%95%B4%E6%80%A7%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="排烟防火阀的设置" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E9%98%B2%E7%81%AB%E9%98%80%E7%9A%84%E8%AE%BE%E7%BD%AE%3C/span%3E" _note="" _mubu_note="">
+            <outline text="2.排烟管道下列部位应设280℃熔断关闭排烟防火阀（1）垂直风管与每层水平风管交接处的水平管段上。" _mubu_text="%3Cspan%3E2.%E6%8E%92%E7%83%9F%E7%AE%A1%E9%81%93%E4%B8%8B%E5%88%97%E9%83%A8%E4%BD%8D%E5%BA%94%E8%AE%BE280%E2%84%83%E7%86%94%E6%96%AD%E5%85%B3%E9%97%AD%E6%8E%92%E7%83%9F%E9%98%B2%E7%81%AB%E9%98%80%EF%BC%881%EF%BC%89%E5%9E%82%E7%9B%B4%E9%A3%8E%E7%AE%A1%E4%B8%8E%E6%AF%8F%E5%B1%82%E6%B0%B4%E5%B9%B3%E9%A3%8E%E7%AE%A1%E4%BA%A4%E6%8E%A5%E5%A4%84%E7%9A%84%E6%B0%B4%E5%B9%B3%E7%AE%A1%E6%AE%B5%E4%B8%8A%E3%80%82%3C/span%3E" _note="" _mubu_note="">
+              <outline text="（2）一个排烟系统负担多个防烟分区的排烟支管上。" _mubu_text="%3Cspan%3E%EF%BC%882%EF%BC%89%E4%B8%80%E4%B8%AA%E6%8E%92%E7%83%9F%E7%B3%BB%E7%BB%9F%E8%B4%9F%E6%8B%85%E5%A4%9A%E4%B8%AA%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%9A%84%E6%8E%92%E7%83%9F%E6%94%AF%E7%AE%A1%E4%B8%8A%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="（3）排烟风机入口处。" _mubu_text="%3Cspan%3E%EF%BC%883%EF%BC%89%E6%8E%92%E7%83%9F%E9%A3%8E%E6%9C%BA%E5%85%A5%E5%8F%A3%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="（4）穿越防火分区处。" _mubu_text="%3Cspan%3E%EF%BC%884%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%98%B2%E7%81%AB%E5%88%86%E5%8C%BA%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="29" _mubu_text="%3Cspan%3E29%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="30" _mubu_text="%3Cspan%3E30%3C/span%3E" _note="" _mubu_note="">
+          <outline text="排烟口距防烟分区内任一点的水平距离不应大于30m。" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E5%8F%A3%E8%B7%9D%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E5%86%85%E4%BB%BB%E4%B8%80%E7%82%B9%E7%9A%84%E6%B0%B4%E5%B9%B3%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%BA%94%E5%A4%A7%E4%BA%8E30m%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="公共建筑内建筑面积大于·300 平米且可燃物较多的地上房间。设置机械排烟" _mubu_text="%3Cspan%3E%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E5%86%85%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E%C2%B7300%20%E5%B9%B3%E7%B1%B3%E4%B8%94%E5%8F%AF%E7%87%83%E7%89%A9%E8%BE%83%E5%A4%9A%E7%9A%84%E5%9C%B0%E4%B8%8A%E6%88%BF%E9%97%B4%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="盥洗水槽水嘴温度30度" _mubu_text="%3Cspan%3E%E7%9B%A5%E6%B4%97%E6%B0%B4%E6%A7%BD%E6%B0%B4%E5%98%B4%E6%B8%A9%E5%BA%A630%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="化粪池与地下取水构筑物距离不小于30m" _mubu_text="%3Cspan%3E%E5%8C%96%E7%B2%AA%E6%B1%A0%E4%B8%8E%E5%9C%B0%E4%B8%8B%E5%8F%96%E6%B0%B4%E6%9E%84%E7%AD%91%E7%89%A9%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%B0%8F%E4%BA%8E30m%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="隔声门可以隔声30-45db" _mubu_text="%3Cspan%3E%E9%9A%94%E5%A3%B0%E9%97%A8%E5%8F%AF%E4%BB%A5%E9%9A%94%E5%A3%B030-45db%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="31" _mubu_text="%3Cspan%3E31%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="32" _mubu_text="%3Cspan%3E32%3C/span%3E" _note="" _mubu_note="">
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+          <outline text="一类建筑设防烟楼梯间" _mubu_text="%3Cspan%3E%E4%B8%80%E7%B1%BB%E5%BB%BA%E7%AD%91%E8%AE%BE%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%3C/span%3E" _note="" _mubu_note="">
+            <outline text="和除单元式和通廊式住宅外的" _mubu_text="%3Cspan%3E%E5%92%8C%E9%99%A4%E5%8D%95%E5%85%83%E5%BC%8F%E5%92%8C%E9%80%9A%E5%BB%8A%E5%BC%8F%E4%BD%8F%E5%AE%85%E5%A4%96%E7%9A%84%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="建筑高度超过32m的二类建筑" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E8%B6%85%E8%BF%8732m%E7%9A%84%E4%BA%8C%E7%B1%BB%E5%BB%BA%E7%AD%91%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="塔式住宅，均应设防烟楼梯间。" _mubu_text="%3Cspan%3E%E5%A1%94%E5%BC%8F%E4%BD%8F%E5%AE%85%EF%BC%8C%E5%9D%87%E5%BA%94%E8%AE%BE%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="33" _mubu_text="%3Cspan%3E33%3C/span%3E" _note="" _mubu_note="">
+          <outline text="一个排水当量相当于0.33L/s" _mubu_text="%3Cspan%3E%E4%B8%80%E4%B8%AA%E6%8E%92%E6%B0%B4%E5%BD%93%E9%87%8F%E7%9B%B8%E5%BD%93%E4%BA%8E0.33L/s%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="34" _mubu_text="%3Cspan%3E34%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="35" _mubu_text="%3Cspan%3E35%3C/span%3E" _note="" _mubu_note="">
+          <outline text="静水压大于0.35MPa，入户管或配水横管，设减压设施" _mubu_text="%3Cspan%3E%E9%9D%99%E6%B0%B4%E5%8E%8B%E5%A4%A7%E4%BA%8E0.35MPa%EF%BC%8C%E5%85%A5%E6%88%B7%E7%AE%A1%E6%88%96%E9%85%8D%E6%B0%B4%E6%A8%AA%E7%AE%A1%EF%BC%8C%E8%AE%BE%E5%87%8F%E5%8E%8B%E8%AE%BE%E6%96%BD%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="幼儿园淋浴器温度35度" _mubu_text="%3Cspan%3E%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E6%B8%A9%E5%BA%A635%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="浴盆温度35度" _mubu_text="%3Cspan%3E%E6%B5%B4%E7%9B%86%E6%B8%A9%E5%BA%A635%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="36" _mubu_text="%3Cspan%3E36%3C/span%3E" _note="" _mubu_note="">
+          <outline text="防烟分区空间净高&gt;3m、：最大面积1000m2，长边的最大长度为36m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;3m%E3%80%81%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF1000m2%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA36m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防水箱，一类高层公共建筑，36立方" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%EF%BC%8C%E4%B8%80%E7%B1%BB%E9%AB%98%E5%B1%82%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%EF%BC%8C36%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="消防水箱，一类住宅高度超过100米，36立方" _mubu_text="%3Cspan%3E%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%EF%BC%8C%E4%B8%80%E7%B1%BB%E4%BD%8F%E5%AE%85%E9%AB%98%E5%BA%A6%E8%B6%85%E8%BF%87100%E7%B1%B3%EF%BC%8C36%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="总面积1万到3万商店建筑，消防水箱容量36立方" _mubu_text="%3Cspan%3E%E6%80%BB%E9%9D%A2%E7%A7%AF1%E4%B8%87%E5%88%B03%E4%B8%87%E5%95%86%E5%BA%97%E5%BB%BA%E7%AD%91%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E5%AE%B9%E9%87%8F36%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="37" _mubu_text="%3Cspan%3E37%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="38" _mubu_text="%3Cspan%3E38%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="39" _mubu_text="%3Cspan%3E39%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="40" _mubu_text="%3Cspan%3E40%3C/span%3E" _note="" _mubu_note="">
+          <outline text="住宅旅馆淋浴水温，37" _mubu_text="%3Cspan%3E%E4%BD%8F%E5%AE%85%E6%97%85%E9%A6%86%E6%B7%8B%E6%B5%B4%E6%B0%B4%E6%B8%A9%EF%BC%8C37%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="排水温度高于40度，降温以后才能进入地下管网" _mubu_text="%3Cspan%3E%E6%8E%92%E6%B0%B4%E6%B8%A9%E5%BA%A6%E9%AB%98%E4%BA%8E40%E5%BA%A6%EF%BC%8C%E9%99%8D%E6%B8%A9%E4%BB%A5%E5%90%8E%E6%89%8D%E8%83%BD%E8%BF%9B%E5%85%A5%E5%9C%B0%E4%B8%8B%E7%AE%A1%E7%BD%91%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="水泵接合器，和室外消防栓，距离15-40m" _mubu_text="%3Cspan%3E%E6%B0%B4%E6%B3%B5%E6%8E%A5%E5%90%88%E5%99%A8%EF%BC%8C%E5%92%8C%E5%AE%A4%E5%A4%96%E6%B6%88%E9%98%B2%E6%A0%93%EF%BC%8C%E8%B7%9D%E7%A6%BB15-40m%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="45" _mubu_text="%3Cspan%3E45%3C/span%3E" _note="" _mubu_note="">
+          <outline text="住宅防烟楼梯间不应小于4．5平米" _mubu_text="%3Cspan%3E%E4%BD%8F%E5%AE%85%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E4%EF%BC%8E5%E5%B9%B3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="高层给水管各分区最低卫生器具配水点，，静水压最大0.45MPa" _mubu_text="%3Cspan%3E%E9%AB%98%E5%B1%82%E7%BB%99%E6%B0%B4%E7%AE%A1%E5%90%84%E5%88%86%E5%8C%BA%E6%9C%80%E4%BD%8E%E5%8D%AB%E7%94%9F%E5%99%A8%E5%85%B7%E9%85%8D%E6%B0%B4%E7%82%B9%EF%BC%8C%EF%BC%8C%E9%9D%99%E6%B0%B4%E5%8E%8B%E6%9C%80%E5%A4%A70.45MPa%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="民用建筑相邻两个卫生间隔声要求45db" _mubu_text="%3Cspan%3E%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%E7%9B%B8%E9%82%BB%E4%B8%A4%E4%B8%AA%E5%8D%AB%E7%94%9F%E9%97%B4%E9%9A%94%E5%A3%B0%E8%A6%81%E6%B1%8245db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="隔声门可以隔声30-45db" _mubu_text="%3Cspan%3E%E9%9A%94%E5%A3%B0%E9%97%A8%E5%8F%AF%E4%BB%A5%E9%9A%94%E5%A3%B030-45db%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="48" _mubu_text="%3Cspan%3E48%3C/span%3E" _note="" _mubu_note="">
+          <outline text="lg3=0.48" _mubu_text="%3Cspan%3Elg3=0.48%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="60" _mubu_text="%3Cspan%3E60%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="垂直方向60度以上无炫光" _mubu_text="%3Cspan%3E%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%9160%E5%BA%A6%E4%BB%A5%E4%B8%8A%E6%97%A0%E7%82%AB%E5%85%89%3C/span%3E" _note="" _mubu_note="">
+          <outline text="" _mubu_text="" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2224116ad90f4304155-2949183%22%2C%22oh%22%3A291%2C%22ow%22%3A280%2C%22uri%22%3A%22document_image%2Fbd55bba6-e448-47f1-9b57-439121f8581b-2949183.jpg%22%7D%5D"/>
+          </outline>
+        </outline>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="75" _mubu_text="%3Cspan%3E75%3C/span%3E" _note="" _mubu_note="">
+          <outline text="医院污物洗涤盆，污水盆，排水管径最小75mm" _mubu_text="%3Cspan%3E%E5%8C%BB%E9%99%A2%E6%B1%A1%E7%89%A9%E6%B4%97%E6%B6%A4%E7%9B%86%EF%BC%8C%E6%B1%A1%E6%B0%B4%E7%9B%86%EF%BC%8C%E6%8E%92%E6%B0%B4%E7%AE%A1%E5%BE%84%E6%9C%80%E5%B0%8F75mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="当公共食堂厨房内的污水采用管道排除时，其管径应比计算管径大一级，但干管管径不得小于100mm，支管管径不得小于75mm；" _mubu_text="%3Cspan%3E%E5%BD%93%E5%85%AC%E5%85%B1%E9%A3%9F%E5%A0%82%E5%8E%A8%E6%88%BF%E5%86%85%E7%9A%84%E6%B1%A1%E6%B0%B4%E9%87%87%E7%94%A8%E7%AE%A1%E9%81%93%E6%8E%92%E9%99%A4%E6%97%B6%EF%BC%8C%E5%85%B6%E7%AE%A1%E5%BE%84%E5%BA%94%E6%AF%94%E8%AE%A1%E7%AE%97%E7%AE%A1%E5%BE%84%E5%A4%A7%E4%B8%80%E7%BA%A7%EF%BC%8C%E4%BD%86%E5%B9%B2%E7%AE%A1%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E100mm%EF%BC%8C%E6%94%AF%E7%AE%A1%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E75mm%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="多层住宅厨房间的立管管径不宜小于75mm。" _mubu_text="%3Cspan%3E%E5%A4%9A%E5%B1%82%E4%BD%8F%E5%AE%85%E5%8E%A8%E6%88%BF%E9%97%B4%E7%9A%84%E7%AB%8B%E7%AE%A1%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%AE%9C%E5%B0%8F%E4%BA%8E75mm%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="小便槽或连接3个及3个以上的小便器，其污水支管管径不宜小于75mm；" _mubu_text="%3Cspan%3E%E5%B0%8F%E4%BE%BF%E6%A7%BD%E6%88%96%E8%BF%9E%E6%8E%A53%E4%B8%AA%E5%8F%8A3%E4%B8%AA%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%B0%8F%E4%BE%BF%E5%99%A8%EF%BC%8C%E5%85%B6%E6%B1%A1%E6%B0%B4%E6%94%AF%E7%AE%A1%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%AE%9C%E5%B0%8F%E4%BA%8E75mm%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="医院污物洗涤盆（池）和污水盆（池）的排水管管径，不得小于75mm。" _mubu_text="%3Cspan%3E%E5%8C%BB%E9%99%A2%E6%B1%A1%E7%89%A9%E6%B4%97%E6%B6%A4%E7%9B%86%EF%BC%88%E6%B1%A0%EF%BC%89%E5%92%8C%E6%B1%A1%E6%B0%B4%E7%9B%86%EF%BC%88%E6%B1%A0%EF%BC%89%E7%9A%84%E6%8E%92%E6%B0%B4%E7%AE%A1%E7%AE%A1%E5%BE%84%EF%BC%8C%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E75mm%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        <outline text="50" _mubu_text="%3Cspan%3E50%3C/span%3E" _note="" _mubu_note="">
+          <outline text="加压送房防烟" _mubu_text="%3Cspan%3E%E5%8A%A0%E5%8E%8B%E9%80%81%E6%88%BF%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note="">
+            <outline text="建筑高度大于50m的公共建筑设加压送风防烟" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E50m%E7%9A%84%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E8%AE%BE%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="防烟分区挡烟垂壁等挡烟分隔的深度：" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E6%8C%A1%E7%83%9F%E5%9E%82%E5%A3%81%E7%AD%89%E6%8C%A1%E7%83%9F%E5%88%86%E9%9A%94%E7%9A%84%E6%B7%B1%E5%BA%A6%EF%BC%9A%3C/span%3E" _note="" _mubu_note="">
+            <outline text="自然排烟时，不应小于空间净高的20%且不应小于500mm；" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98%E7%9A%8420%25%E4%B8%94%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E500mm%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="机械排烟时，不应小于空间净高的10%且不应小于500mm。" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98%E7%9A%8410%25%E4%B8%94%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E500mm%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="防烟分区" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%3C/span%3E" _note="" _mubu_note="">
+            <outline text="防烟分区最大面积500平米，长边的最大长度为24m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF500%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA24m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="排烟补风场所：" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E8%A1%A5%E9%A3%8E%E5%9C%BA%E6%89%80%EF%BC%9A%3C/span%3E" _note="" _mubu_note="">
+            <outline text="除地上建筑的走道或建筑面积少于500m2的房间外，" _mubu_text="%3Cspan%3E%E9%99%A4%E5%9C%B0%E4%B8%8A%E5%BB%BA%E7%AD%91%E7%9A%84%E8%B5%B0%E9%81%93%E6%88%96%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%B0%91%E4%BA%8E500m2%E7%9A%84%E6%88%BF%E9%97%B4%E5%A4%96%EF%BC%8C%3C/span%3E" _note="" _mubu_note="">
+              <outline text="设置排烟系统的场所应设置补风系统。" _mubu_text="%3Cspan%3E%E8%AE%BE%E7%BD%AE%E6%8E%92%E7%83%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%9C%BA%E6%89%80%E5%BA%94%E8%AE%BE%E7%BD%AE%E8%A1%A5%E9%A3%8E%E7%B3%BB%E7%BB%9F%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+          <outline text="地下或半地下建筑（室）、地上建筑内的无窗房间，一个房间建筑面积大于50平米，且经常有人停留或可燃物较多时，应设置排烟设施。" _mubu_text="%3Cspan%3E%E5%9C%B0%E4%B8%8B%E6%88%96%E5%8D%8A%E5%9C%B0%E4%B8%8B%E5%BB%BA%E7%AD%91%EF%BC%88%E5%AE%A4%EF%BC%89%E3%80%81%E5%9C%B0%E4%B8%8A%E5%BB%BA%E7%AD%91%E5%86%85%E7%9A%84%E6%97%A0%E7%AA%97%E6%88%BF%E9%97%B4%EF%BC%8C%E4%B8%80%E4%B8%AA%E6%88%BF%E9%97%B4%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E50%E5%B9%B3%E7%B1%B3%EF%BC%8C%E4%B8%94%E7%BB%8F%E5%B8%B8%E6%9C%89%E4%BA%BA%E5%81%9C%E7%95%99%E6%88%96%E5%8F%AF%E7%87%83%E7%89%A9%E8%BE%83%E5%A4%9A%E6%97%B6%EF%BC%8C%E5%BA%94%E8%AE%BE%E7%BD%AE%E6%8E%92%E7%83%9F%E8%AE%BE%E6%96%BD%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="截止阀  管径  50mm" _mubu_text="%3Cspan%3E%E6%88%AA%E6%AD%A2%E9%98%80%20%20%E7%AE%A1%E5%BE%84%20%2050mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="体育馆运动员休息室同时给水率50%" _mubu_text="%3Cspan%3E%E4%BD%93%E8%82%B2%E9%A6%86%E8%BF%90%E5%8A%A8%E5%91%98%E4%BC%91%E6%81%AF%E5%AE%A4%E5%90%8C%E6%97%B6%E7%BB%99%E6%B0%B4%E7%8E%8750%25%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="洗涤盆温度50度" _mubu_text="%3Cspan%3E%E6%B4%97%E6%B6%A4%E7%9B%86%E6%B8%A9%E5%BA%A650%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="高层建筑消防水池超过500平方，分成两个独立使用" _mubu_text="%3Cspan%3E%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B6%88%E9%98%B2%E6%B0%B4%E6%B1%A0%E8%B6%85%E8%BF%87500%E5%B9%B3%E6%96%B9%EF%BC%8C%E5%88%86%E6%88%90%E4%B8%A4%E4%B8%AA%E7%8B%AC%E7%AB%8B%E4%BD%BF%E7%94%A8%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="建筑高度大于100米，消防水箱不应小于50米" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E100%E7%B1%B3%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E7%AE%B1%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E50%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="总建筑面积大于3万，消防水池，50立方" _mubu_text="%3Cspan%3E%E6%80%BB%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E3%E4%B8%87%EF%BC%8C%E6%B6%88%E9%98%B2%E6%B0%B4%E6%B1%A0%EF%BC%8C50%E7%AB%8B%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="建筑物内排出管最小管径不得水于50mm。" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E7%89%A9%E5%86%85%E6%8E%92%E5%87%BA%E7%AE%A1%E6%9C%80%E5%B0%8F%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%BE%97%E6%B0%B4%E4%BA%8E50mm%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="带水封的地漏水封深度不得小于50mm" _mubu_text="%3Cspan%3E%E5%B8%A6%E6%B0%B4%E5%B0%81%E7%9A%84%E5%9C%B0%E6%BC%8F%E6%B0%B4%E5%B0%81%E6%B7%B1%E5%BA%A6%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E50mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="一段天沟长度最多50米" _mubu_text="%3Cspan%3E%E4%B8%80%E6%AE%B5%E5%A4%A9%E6%B2%9F%E9%95%BF%E5%BA%A6%E6%9C%80%E5%A4%9A50%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="50毫秒内声音听起来是一个声音 （哈斯效应）" _mubu_text="%3Cspan%3E50%E6%AF%AB%E7%A7%92%E5%86%85%E5%A3%B0%E9%9F%B3%E5%90%AC%E8%B5%B7%E6%9D%A5%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A3%B0%E9%9F%B3%20%EF%BC%88%E5%93%88%E6%96%AF%E6%95%88%E5%BA%94%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="空气间层最多隔声50分贝" _mubu_text="%3Cspan%3E%E7%A9%BA%E6%B0%94%E9%97%B4%E5%B1%82%E6%9C%80%E5%A4%9A%E9%9A%94%E5%A3%B050%E5%88%86%E8%B4%9D%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="54" _mubu_text="%3Cspan%3E54%3C/span%3E" _note="" _mubu_note="">
+          <outline text="" _mubu_text="" _note="" _mubu_note="">
+            <outline text="一类高层是" _mubu_text="%3Cspan%3E%E4%B8%80%E7%B1%BB%E9%AB%98%E5%B1%82%E6%98%AF%3C/span%3E" _note="" _mubu_note="">
+              <outline text="建筑高度大于54m的住宅建筑（包" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E54m%E7%9A%84%E4%BD%8F%E5%AE%85%E5%BB%BA%E7%AD%91%EF%BC%88%E5%8C%85%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="括设置商业服务网点的住宅建筑）" _mubu_text="%3Cspan%3E%E6%8B%AC%E8%AE%BE%E7%BD%AE%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1%E7%BD%91%E7%82%B9%E7%9A%84%E4%BD%8F%E5%AE%85%E5%BB%BA%E7%AD%91%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="55" _mubu_text="%3Cspan%3E55%3C/span%3E" _note="" _mubu_note="">
+          <outline text="病房隔声55db" _mubu_text="%3Cspan%3E%E7%97%85%E6%88%BF%E9%9A%94%E5%A3%B055db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="555nm的光白天眼睛最敏感" _mubu_text="%3Cspan%3E555nm%E7%9A%84%E5%85%89%E7%99%BD%E5%A4%A9%E7%9C%BC%E7%9D%9B%E6%9C%80%E6%95%8F%E6%84%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="500nm的光晚上敏感" _mubu_text="%3Cspan%3E500nm%E7%9A%84%E5%85%89%E6%99%9A%E4%B8%8A%E6%95%8F%E6%84%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="60" _mubu_text="%3Cspan%3E60%3C/span%3E" _note="" _mubu_note="">
+          <outline text="防烟分区空间净高&gt;6m：最大面积2000m2，长边的最大长度为60m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;6m%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF2000m2%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA60m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="超过60米消火栓在道路两侧设置" _mubu_text="%3Cspan%3E%E8%B6%85%E8%BF%8760%E7%B1%B3%E6%B6%88%E7%81%AB%E6%A0%93%E5%9C%A8%E9%81%93%E8%B7%AF%E4%B8%A4%E4%BE%A7%E8%AE%BE%E7%BD%AE%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="挂式小便器，离开地念高度600 mm" _mubu_text="%3Cspan%3E%E6%8C%82%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%99%A8%EF%BC%8C%E7%A6%BB%E5%BC%80%E5%9C%B0%E5%BF%B5%E9%AB%98%E5%BA%A6600%20mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="儿童挂式小便器，挂式小便器，离开地念高度450 mm" _mubu_text="%3Cspan%3E%E5%84%BF%E7%AB%A5%E6%8C%82%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%99%A8%EF%BC%8C%E6%8C%82%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%99%A8%EF%BC%8C%E7%A6%BB%E5%BC%80%E5%9C%B0%E5%BF%B5%E9%AB%98%E5%BA%A6450%20mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="衰减60db的时间叫混响时间T60" _mubu_text="%3Cspan%3E%E8%A1%B0%E5%87%8F60db%E7%9A%84%E6%97%B6%E9%97%B4%E5%8F%AB%E6%B7%B7%E5%93%8D%E6%97%B6%E9%97%B4T60%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="健身房隔声60db" _mubu_text="%3Cspan%3E%E5%81%A5%E8%BA%AB%E6%88%BF%E9%9A%94%E5%A3%B060db%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="65" _mubu_text="%3Cspan%3E65%3C/span%3E" _note="" _mubu_note="">
+          <outline text="楼板撞击隔声小于（撞击隔声越小越好）65db 也就是声音传下去只有65db" _mubu_text="%3Cspan%3E%E6%A5%BC%E6%9D%BF%E6%92%9E%E5%87%BB%E9%9A%94%E5%A3%B0%E5%B0%8F%E4%BA%8E%EF%BC%88%E6%92%9E%E5%87%BB%E9%9A%94%E5%A3%B0%E8%B6%8A%E5%B0%8F%E8%B6%8A%E5%A5%BD%EF%BC%8965db%20%E4%B9%9F%E5%B0%B1%E6%98%AF%E5%A3%B0%E9%9F%B3%E4%BC%A0%E4%B8%8B%E5%8E%BB%E5%8F%AA%E6%9C%8965db%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="70" _mubu_text="%3Cspan%3E70%3C/span%3E" _note="" _mubu_note="">
+          <outline text="防火阀设置" _mubu_text="%3Cspan%3E%E9%98%B2%E7%81%AB%E9%98%80%E8%AE%BE%E7%BD%AE%3C/span%3E" _note="" _mubu_note="">
+            <outline text="1.通风空调风管下列部位应设70℃防火阀（1）穿越防火分区处。" _mubu_text="%3Cspan%3E1.%E9%80%9A%E9%A3%8E%E7%A9%BA%E8%B0%83%E9%A3%8E%E7%AE%A1%E4%B8%8B%E5%88%97%E9%83%A8%E4%BD%8D%E5%BA%94%E8%AE%BE70%E2%84%83%E9%98%B2%E7%81%AB%E9%98%80%EF%BC%881%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%98%B2%E7%81%AB%E5%88%86%E5%8C%BA%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note="">
+              <outline text="（2）穿越通风、空调机房隔墙和楼板处。" _mubu_text="%3Cspan%3E%EF%BC%882%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%80%9A%E9%A3%8E%E3%80%81%E7%A9%BA%E8%B0%83%E6%9C%BA%E6%88%BF%E9%9A%94%E5%A2%99%E5%92%8C%E6%A5%BC%E6%9D%BF%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="（3）穿越重要或火灾危险性大的隔墙和楼板处。" _mubu_text="%3Cspan%3E%EF%BC%883%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%87%8D%E8%A6%81%E6%88%96%E7%81%AB%E7%81%BE%E5%8D%B1%E9%99%A9%E6%80%A7%E5%A4%A7%E7%9A%84%E9%9A%94%E5%A2%99%E5%92%8C%E6%A5%BC%E6%9D%BF%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="（4）穿越防火分隔处的变形缝两侧。" _mubu_text="%3Cspan%3E%EF%BC%884%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%98%B2%E7%81%AB%E5%88%86%E9%9A%94%E5%A4%84%E7%9A%84%E5%8F%98%E5%BD%A2%E7%BC%9D%E4%B8%A4%E4%BE%A7%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="（5）竖向风管与每层水平风管交接处的水平管段上。" _mubu_text="%3Cspan%3E%EF%BC%885%EF%BC%89%E7%AB%96%E5%90%91%E9%A3%8E%E7%AE%A1%E4%B8%8E%E6%AF%8F%E5%B1%82%E6%B0%B4%E5%B9%B3%E9%A3%8E%E7%AE%A1%E4%BA%A4%E6%8E%A5%E5%A4%84%E7%9A%84%E6%B0%B4%E5%B9%B3%E7%AE%A1%E6%AE%B5%E4%B8%8A%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+          <outline text="闸阀 管径70mm" _mubu_text="%3Cspan%3E%E9%97%B8%E9%98%80%20%E7%AE%A1%E5%BE%8470mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="体育馆洗手盆 同时给水百分率70%" _mubu_text="%3Cspan%3E%E4%BD%93%E8%82%B2%E9%A6%86%E6%B4%97%E6%89%8B%E7%9B%86%20%E5%90%8C%E6%97%B6%E7%BB%99%E6%B0%B4%E7%99%BE%E5%88%86%E7%8E%8770%25%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="75" _mubu_text="%3Cspan%3E75%3C/span%3E" _note="" _mubu_note="">
+          <outline text="采光等级1级室内天然照度标准值750" _mubu_text="%3Cspan%3E%E9%87%87%E5%85%89%E7%AD%89%E7%BA%A71%E7%BA%A7%E5%AE%A4%E5%86%85%E5%A4%A9%E7%84%B6%E7%85%A7%E5%BA%A6%E6%A0%87%E5%87%86%E5%80%BC750%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="80" _mubu_text="%3Cspan%3E80%3C/span%3E" _note="" _mubu_note="">
+          <outline text="排水量是用水量的80%，排水量小于用水量" _mubu_text="%3Cspan%3E%E6%8E%92%E6%B0%B4%E9%87%8F%E6%98%AF%E7%94%A8%E6%B0%B4%E9%87%8F%E7%9A%8480%25%EF%BC%8C%E6%8E%92%E6%B0%B4%E9%87%8F%E5%B0%8F%E4%BA%8E%E7%94%A8%E6%B0%B4%E9%87%8F%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="90" _mubu_text="%3Cspan%3E90%3C/span%3E" _note="" _mubu_note="">
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="100" _mubu_text="%3Cspan%3E100%3C/span%3E" _note="" _mubu_note="">
+          <outline text="室内加压泵接室外给水管网，要求室外给水管网的压力，不低于100KPa" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%86%85%E5%8A%A0%E5%8E%8B%E6%B3%B5%E6%8E%A5%E5%AE%A4%E5%A4%96%E7%BB%99%E6%B0%B4%E7%AE%A1%E7%BD%91%EF%BC%8C%E8%A6%81%E6%B1%82%E5%AE%A4%E5%A4%96%E7%BB%99%E6%B0%B4%E7%AE%A1%E7%BD%91%E7%9A%84%E5%8E%8B%E5%8A%9B%EF%BC%8C%E4%B8%8D%E4%BD%8E%E4%BA%8E100KPa%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="饮用水源取水点，100米范围内，和所有上游，不得有任何污染物质" _mubu_text="%3Cspan%3E%E9%A5%AE%E7%94%A8%E6%B0%B4%E6%BA%90%E5%8F%96%E6%B0%B4%E7%82%B9%EF%BC%8C100%E7%B1%B3%E8%8C%83%E5%9B%B4%E5%86%85%EF%BC%8C%E5%92%8C%E6%89%80%E6%9C%89%E4%B8%8A%E6%B8%B8%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%9C%89%E4%BB%BB%E4%BD%95%E6%B1%A1%E6%9F%93%E7%89%A9%E8%B4%A8%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="室内消火栓最小管径100mm" _mubu_text="%3Cspan%3E%E5%AE%A4%E5%86%85%E6%B6%88%E7%81%AB%E6%A0%93%E6%9C%80%E5%B0%8F%E7%AE%A1%E5%BE%84100mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="当公共食堂厨房内的污水采用管道排除时，其管径应比计算管径大一级，但干管管径不得小于100mm，支管管径不得小于75mm；" _mubu_text="%3Cspan%3E%E5%BD%93%E5%85%AC%E5%85%B1%E9%A3%9F%E5%A0%82%E5%8E%A8%E6%88%BF%E5%86%85%E7%9A%84%E6%B1%A1%E6%B0%B4%E9%87%87%E7%94%A8%E7%AE%A1%E9%81%93%E6%8E%92%E9%99%A4%E6%97%B6%EF%BC%8C%E5%85%B6%E7%AE%A1%E5%BE%84%E5%BA%94%E6%AF%94%E8%AE%A1%E7%AE%97%E7%AE%A1%E5%BE%84%E5%A4%A7%E4%B8%80%E7%BA%A7%EF%BC%8C%E4%BD%86%E5%B9%B2%E7%AE%A1%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E100mm%EF%BC%8C%E6%94%AF%E7%AE%A1%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E75mm%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="大便器排水管最小管径不得小于100mm。" _mubu_text="%3Cspan%3E%E5%A4%A7%E4%BE%BF%E5%99%A8%E6%8E%92%E6%B0%B4%E7%AE%A1%E6%9C%80%E5%B0%8F%E7%AE%A1%E5%BE%84%E4%B8%8D%E5%BE%97%E5%B0%8F%E4%BA%8E100mm%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="浴池泄水管径100mm" _mubu_text="%3Cspan%3E%E6%B5%B4%E6%B1%A0%E6%B3%84%E6%B0%B4%E7%AE%A1%E5%BE%84100mm%3C/span%3E" _note="" _mubu_note="">
+            <outline text="赛宾公式" _mubu_text="%3Cspan%3E%E8%B5%9B%E5%AE%BE%E5%85%AC%E5%BC%8F%3C/span%3E" _note="" _mubu_note="">
+              <outline text="T60=0.161V/A" _mubu_text="%3Cspan%3ET60=0.161V/A%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+          <outline text="雨水斗接管管径，不小于100mm" _mubu_text="%3Cspan%3E%E9%9B%A8%E6%B0%B4%E6%96%97%E6%8E%A5%E7%AE%A1%E7%AE%A1%E5%BE%84%EF%BC%8C%E4%B8%8D%E5%B0%8F%E4%BA%8E100mm%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="等响度曲线以1000HZ纯音响度为标准" _mubu_text="%3Cspan%3E%E7%AD%89%E5%93%8D%E5%BA%A6%E6%9B%B2%E7%BA%BF%E4%BB%A51000HZ%E7%BA%AF%E9%9F%B3%E5%93%8D%E5%BA%A6%E4%B8%BA%E6%A0%87%E5%87%86%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="中文排数" _mubu_text="%3Cspan%3E%E4%B8%AD%E6%96%87%E6%8E%92%E6%95%B0%3C/span%3E" _note="" _mubu_note="">
+      <outline text="甲" _mubu_text="%3Cspan%3E%E7%94%B2%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="乙" _mubu_text="%3Cspan%3E%E4%B9%99%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="丙" _mubu_text="%3Cspan%3E%E4%B8%99%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="丁" _mubu_text="%3Cspan%3E%E4%B8%81%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="戊" _mubu_text="%3Cspan%3E%E6%88%8A%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="字母" _mubu_text="%3Cspan%3E%E5%AD%97%E6%AF%8D%3C/span%3E" _note="" _mubu_note="">
+      <outline text="A" _mubu_text="%3Cspan%3EA%3C/span%3E" _note="" _mubu_note="">
+        <outline text="吸声量" _mubu_text="%3Cspan%3E%E5%90%B8%E5%A3%B0%E9%87%8F%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位平方米" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%E5%B9%B3%E6%96%B9%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="A声级" _mubu_text="%3Cspan%3EA%E5%A3%B0%E7%BA%A7%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="连续等效A声级" _mubu_text="%3Cspan%3E%E8%BF%9E%E7%BB%AD%E7%AD%89%E6%95%88A%E5%A3%B0%E7%BA%A7%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="昼夜等效A声级" _mubu_text="%3Cspan%3E%E6%98%BC%E5%A4%9C%E7%AD%89%E6%95%88A%E5%A3%B0%E7%BA%A7%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="亮度L     单位cd/平方=nt尼特=asb/π=0.0001sb" _mubu_text="%3Cspan%3E%E4%BA%AE%E5%BA%A6L%20%20%20%20%20%E5%8D%95%E4%BD%8Dcd/%E5%B9%B3%E6%96%B9=nt%E5%B0%BC%E7%89%B9=asb/%CF%80=0.0001sb%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="B" _mubu_text="%3Cspan%3EB%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="C" _mubu_text="%3Cspan%3EC%3C/span%3E" _note="" _mubu_note="">
+        <outline text="发光强度I单位cd" _mubu_text="%3Cspan%3E%E5%8F%91%E5%85%89%E5%BC%BA%E5%BA%A6I%E5%8D%95%E4%BD%8Dcd%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="亮度L     单位cd/平方=nt尼特=asb/π=0.0001sb" _mubu_text="%3Cspan%3E%E4%BA%AE%E5%BA%A6L%20%20%20%20%20%E5%8D%95%E4%BD%8Dcd/%E5%B9%B3%E6%96%B9=nt%E5%B0%BC%E7%89%B9=asb/%CF%80=0.0001sb%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="采光系数" _mubu_text="%3Cspan%3E%E9%87%87%E5%85%89%E7%B3%BB%E6%95%B0%3C/span%3E" _note="" _mubu_note="">
+          <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%226e16ad93c5bc903d-2949183%22%2C%22oh%22%3A86%2C%22ow%22%3A257%2C%22uri%22%3A%22document_image%2F86098aa3-f250-411d-b995-72d192a099e9-2949183.jpg%22%2C%22w%22%3A194%7D%5D"/>
+        </outline>
+      </outline>
+      <outline text="D" _mubu_text="%3Cspan%3ED%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="E" _mubu_text="%3Cspan%3EE%3C/span%3E" _note="" _mubu_note="">
+        <outline text="照度E" _mubu_text="%3Cspan%3E%E7%85%A7%E5%BA%A6E%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位lx" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8Dlx%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="F" _mubu_text="%3Cspan%3EF%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="G" _mubu_text="%3Cspan%3EG%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="H" _mubu_text="%3Cspan%3EH%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="I" _mubu_text="%3Cspan%3EI%3C/span%3E" _note="" _mubu_note="">
+        <outline text="声强" _mubu_text="%3Cspan%3E%E5%A3%B0%E5%BC%BA%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位瓦每平米W/平米" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%E7%93%A6%E6%AF%8F%E5%B9%B3%E7%B1%B3W/%E5%B9%B3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="I=w/s=P 2/P0c" _mubu_text="%3Cspan%3EI=w/s=P%202/P0c%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="发光强度I" _mubu_text="%3Cspan%3E%E5%8F%91%E5%85%89%E5%BC%BA%E5%BA%A6I%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位cd" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8Dcd%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="漫反射垂直面最大" _mubu_text="%3Cspan%3E%E6%BC%AB%E5%8F%8D%E5%B0%84%E5%9E%82%E7%9B%B4%E9%9D%A2%E6%9C%80%E5%A4%A7%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="J" _mubu_text="%3Cspan%3EJ%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="K" _mubu_text="%3Cspan%3EK%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="L" _mubu_text="%3Cspan%3EL%3C/span%3E" _note="" _mubu_note="">
+        <outline text="声压级" _mubu_text="%3Cspan%3E%E5%A3%B0%E5%8E%8B%E7%BA%A7%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="Lp=20lg(P/P0)" _mubu_text="%3Cspan%3ELp=20lg(P/P0)%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="P0 听觉下限 P0=2x10 5N/M 2" _mubu_text="%3Cspan%3EP0%20%E5%90%AC%E8%A7%89%E4%B8%8B%E9%99%90%20P0=2x10%205N/M%202%3C/span%3E" _note="" _mubu_note="">
+          <outline text="20lg(P/P0)+20lg2=20lg(P/P0)+0.3" _mubu_text="%3Cspan%3E20lg(P/P0)+20lg2=20lg(P/P0)+0.3%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="几个声压级叠加" _mubu_text="%3Cspan%3E%E5%87%A0%E4%B8%AA%E5%A3%B0%E5%8E%8B%E7%BA%A7%E5%8F%A0%E5%8A%A0%3C/span%3E" _note="" _mubu_note="">
+          <outline text="Lp=20lgP/P0+10LGn" _mubu_text="%3Cspan%3ELp=20lgP/P0+10LGn%3C/span%3E" _note="" _mubu_note="">
+            <outline text="n是几个叠加" _mubu_text="%3Cspan%3En%E6%98%AF%E5%87%A0%E4%B8%AA%E5%8F%A0%E5%8A%A0%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+        </outline>
+        <outline text="累计分布声级" _mubu_text="%3Cspan%3E%E7%B4%AF%E8%AE%A1%E5%88%86%E5%B8%83%E5%A3%B0%E7%BA%A7%3C/span%3E" _note="" _mubu_note="">
+          <outline text="例，L90百分之九十的声音有90 分贝" _mubu_text="%3Cspan%3E%E4%BE%8B%EF%BC%8CL90%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%9C%8990%20%E5%88%86%E8%B4%9D%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="光通量φ单位lm 流明" _mubu_text="%3Cspan%3E%E5%85%89%E9%80%9A%E9%87%8F%CF%86%E5%8D%95%E4%BD%8Dlm%20%E6%B5%81%E6%98%8E%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="照度E单位lx" _mubu_text="%3Cspan%3E%E7%85%A7%E5%BA%A6E%E5%8D%95%E4%BD%8Dlx%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text=" 亮度L" _mubu_text="%3Cspan%3E%20%E4%BA%AE%E5%BA%A6L%3C/span%3E" _note="" _mubu_note="">
+          <outline text="眼睛看到的单位面积的发光强度" _mubu_text="%3Cspan%3E%E7%9C%BC%E7%9D%9B%E7%9C%8B%E5%88%B0%E7%9A%84%E5%8D%95%E4%BD%8D%E9%9D%A2%E7%A7%AF%E7%9A%84%E5%8F%91%E5%85%89%E5%BC%BA%E5%BA%A6%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="单位cd/平方" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8Dcd/%E5%B9%B3%E6%96%B9%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="漫反射180度处处相等" _mubu_text="%3Cspan%3E%E6%BC%AB%E5%8F%8D%E5%B0%84180%E5%BA%A6%E5%A4%84%E5%A4%84%E7%9B%B8%E7%AD%89%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="M" _mubu_text="%3Cspan%3EM%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="N" _mubu_text="%3Cspan%3EN%3C/span%3E" _note="" _mubu_note="">
+        <outline text="响度" _mubu_text="%3Cspan%3E%E5%93%8D%E5%BA%A6%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位 宋song" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%20%E5%AE%8Bsong%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="NR曲线" _mubu_text="%3Cspan%3ENR%E6%9B%B2%E7%BA%BF%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="亮度L     单位cd/平方=nt尼特=asb/π=0.0001sb" _mubu_text="%3Cspan%3E%E4%BA%AE%E5%BA%A6L%20%20%20%20%20%E5%8D%95%E4%BD%8Dcd/%E5%B9%B3%E6%96%B9=nt%E5%B0%BC%E7%89%B9=asb/%CF%80=0.0001sb%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="O" _mubu_text="%3Cspan%3EO%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="P" _mubu_text="%3Cspan%3EP%3C/span%3E" _note="" _mubu_note="">
+        <outline text="声压" _mubu_text="%3Cspan%3E%E5%A3%B0%E5%8E%8B%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位牛没平米" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%E7%89%9B%E6%B2%A1%E5%B9%B3%E7%B1%B3%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="Q" _mubu_text="%3Cspan%3EQ%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="R" _mubu_text="%3Cspan%3ER%3C/span%3E" _note="" _mubu_note="">
+        <outline text="Ra光显色性" _mubu_text="%3Cspan%3ERa%E5%85%89%E6%98%BE%E8%89%B2%E6%80%A7%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="S" _mubu_text="%3Cspan%3ES%3C/span%3E" _note="" _mubu_note="">
+        <outline text="亮度L     单位cd/平方=nt尼特=asb/π=0.0001sb" _mubu_text="%3Cspan%3E%E4%BA%AE%E5%BA%A6L%20%20%20%20%20%E5%8D%95%E4%BD%8Dcd/%E5%B9%B3%E6%96%B9=nt%E5%B0%BC%E7%89%B9=asb/%CF%80=0.0001sb%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="T" _mubu_text="%3Cspan%3ET%3C/span%3E" _note="" _mubu_note="">
+        <outline text="T60混响时间" _mubu_text="%3Cspan%3ET60%E6%B7%B7%E5%93%8D%E6%97%B6%E9%97%B4%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="U" _mubu_text="%3Cspan%3EU%3C/span%3E" _note="" _mubu_note="">
+        <outline text="统一眩光值(UGR)" _mubu_text="%3Cspan%3E%E7%BB%9F%E4%B8%80%E7%9C%A9%E5%85%89%E5%80%BC(UGR)%3C/span%3E" _note="" _mubu_note="">
+          <outline text="越小越好" _mubu_text="%3Cspan%3E%E8%B6%8A%E5%B0%8F%E8%B6%8A%E5%A5%BD%3C/span%3E" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2235216ad96741da05a-2949183%22%2C%22oh%22%3A116%2C%22ow%22%3A395%2C%22uri%22%3A%22document_image%2Fddfc92b6-3a82-400c-ab6a-8baf2ca64f46-2949183.jpg%22%2C%22w%22%3A210%7D%5D">
+              <outline text="Lb　—背景亮度（cd/m2）；" _mubu_text="%3Cspan%3ELb%E3%80%80%E2%80%94%E8%83%8C%E6%99%AF%E4%BA%AE%E5%BA%A6%EF%BC%88cd/m2%EF%BC%89%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="Lα —观察者方向每个灯具发光部分的亮度（cd/m2）；" _mubu_text="%3Cspan%3EL%CE%B1%20%E2%80%94%E8%A7%82%E5%AF%9F%E8%80%85%E6%96%B9%E5%90%91%E6%AF%8F%E4%B8%AA%E7%81%AF%E5%85%B7%E5%8F%91%E5%85%89%E9%83%A8%E5%88%86%E7%9A%84%E4%BA%AE%E5%BA%A6%EF%BC%88cd/m2%EF%BC%89%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="ω —每个灯具发光部分对观察者眼睛形成的立体角（sr）；" _mubu_text="%3Cspan%3E%CF%89%20%E2%80%94%E6%AF%8F%E4%B8%AA%E7%81%AF%E5%85%B7%E5%8F%91%E5%85%89%E9%83%A8%E5%88%86%E5%AF%B9%E8%A7%82%E5%AF%9F%E8%80%85%E7%9C%BC%E7%9D%9B%E5%BD%A2%E6%88%90%E7%9A%84%E7%AB%8B%E4%BD%93%E8%A7%92%EF%BC%88sr%EF%BC%89%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="p —每个单独灯具的位置指数。" _mubu_text="%3Cspan%3Ep%20%E2%80%94%E6%AF%8F%E4%B8%AA%E5%8D%95%E7%8B%AC%E7%81%AF%E5%85%B7%E7%9A%84%E4%BD%8D%E7%BD%AE%E6%8C%87%E6%95%B0%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%222dd16ad9681ee2076-2949183%22%2C%22oh%22%3A226%2C%22ow%22%3A156%2C%22uri%22%3A%22document_image%2Fa45c86a0-689d-48e2-9107-dfe52be37d84-2949183.jpg%22%2C%22w%22%3A187%7D%5D"/>
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      <outline text="V" _mubu_text="%3Cspan%3EV%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="W" _mubu_text="%3Cspan%3EW%3C/span%3E" _note="" _mubu_note="">
+        <outline text="声功率" _mubu_text="%3Cspan%3E%E5%A3%B0%E5%8A%9F%E7%8E%87%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位瓦W" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%E7%93%A6W%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="X" _mubu_text="%3Cspan%3EX%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="Y" _mubu_text="%3Cspan%3EY%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="Z" _mubu_text="%3Cspan%3EZ%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="其他字母" _mubu_text="%3Cspan%3E%E5%85%B6%E4%BB%96%E5%AD%97%E6%AF%8D%3C/span%3E" _note="" _mubu_note="">
+      <outline text="α" _mubu_text="%3Cspan%3E%CE%B1%3C/span%3E" _note="" _mubu_note="">
+        <outline text="光吸收比" _mubu_text="%3Cspan%3E%E5%85%89%E5%90%B8%E6%94%B6%E6%AF%94%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="被照面（物）吸收光通量和入射光通量之比" _mubu_text="%3Cspan%3E%E8%A2%AB%E7%85%A7%E9%9D%A2%EF%BC%88%E7%89%A9%EF%BC%89%E5%90%B8%E6%94%B6%E5%85%89%E9%80%9A%E9%87%8F%E5%92%8C%E5%85%A5%E5%B0%84%E5%85%89%E9%80%9A%E9%87%8F%E4%B9%8B%E6%AF%94%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="单位φα/φ" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%CF%86%CE%B1/%CF%86%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="φ" _mubu_text="%3Cspan%3E%CF%86%3C/span%3E" _note="" _mubu_note="">
+        <outline text="光通量" _mubu_text="%3Cspan%3E%E5%85%89%E9%80%9A%E9%87%8F%3C/span%3E" _note="" _mubu_note="">
+          <outline text="光源发出的总量" _mubu_text="%3Cspan%3E%E5%85%89%E6%BA%90%E5%8F%91%E5%87%BA%E7%9A%84%E6%80%BB%E9%87%8F%3C/span%3E" _note="" _mubu_note="">
+            <outline text="单位lm 流明" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8Dlm%20%E6%B5%81%E6%98%8E%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="ρ（肉）" _mubu_text="%3Cspan%3E%CF%81%EF%BC%88%E8%82%89%EF%BC%89%3C/span%3E" _note="" _mubu_note="">
+        <outline text=" 光反射比" _mubu_text="%3Cspan%3E%20%E5%85%89%E5%8F%8D%E5%B0%84%E6%AF%94%3C/span%3E" _note="" _mubu_note="">
+          <outline text="单位φρ/φ" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%CF%86%CF%81/%CF%86%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="被照面反射光通量" _mubu_text="%3Cspan%3E%E8%A2%AB%E7%85%A7%E9%9D%A2%E5%8F%8D%E5%B0%84%E5%85%89%E9%80%9A%E9%87%8F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="和入射光通量之比" _mubu_text="%3Cspan%3E%E5%92%8C%E5%85%A5%E5%B0%84%E5%85%89%E9%80%9A%E9%87%8F%E4%B9%8B%E6%AF%94%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="τ拉姆达" _mubu_text="%3Cspan%3E%CF%84%E6%8B%89%E5%A7%86%E8%BE%BE%3C/span%3E" _note="" _mubu_note="">
+        <outline text="光透射比" _mubu_text="%3Cspan%3E%E5%85%89%E9%80%8F%E5%B0%84%E6%AF%94%3C/span%3E" _note="" _mubu_note="">
+          <outline text="被照面（物）透射光通量和入射光通量之比" _mubu_text="%3Cspan%3E%E8%A2%AB%E7%85%A7%E9%9D%A2%EF%BC%88%E7%89%A9%EF%BC%89%E9%80%8F%E5%B0%84%E5%85%89%E9%80%9A%E9%87%8F%E5%92%8C%E5%85%A5%E5%B0%84%E5%85%89%E9%80%9A%E9%87%8F%E4%B9%8B%E6%AF%94%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="单位φτ/φ" _mubu_text="%3Cspan%3E%E5%8D%95%E4%BD%8D%CF%86%CF%84/%CF%86%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="低" _mubu_text="%3Cspan%3E%E4%BD%8E%3C/span%3E" _note="" _mubu_note="">
+      <outline text="多孔吸声材料吸高频声" _mubu_text="%3Cspan%3E%E5%A4%9A%E5%AD%94%E5%90%B8%E5%A3%B0%E6%9D%90%E6%96%99%E5%90%B8%E9%AB%98%E9%A2%91%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="薄板吸声材料吸收低频声" _mubu_text="%3Cspan%3E%E8%96%84%E6%9D%BF%E5%90%B8%E5%A3%B0%E6%9D%90%E6%96%99%E5%90%B8%E6%94%B6%E4%BD%8E%E9%A2%91%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="抗性消声器吸收低频" _mubu_text="%3Cspan%3E%E6%8A%97%E6%80%A7%E6%B6%88%E5%A3%B0%E5%99%A8%E5%90%B8%E6%94%B6%E4%BD%8E%E9%A2%91%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="中" _mubu_text="%3Cspan%3E%E4%B8%AD%3C/span%3E" _note="" _mubu_note="">
+      <outline text="多孔吸声材料， 空气间层，吸收中高频声" _mubu_text="%3Cspan%3E%E5%A4%9A%E5%AD%94%E5%90%B8%E5%A3%B0%E6%9D%90%E6%96%99%EF%BC%8C%20%E7%A9%BA%E6%B0%94%E9%97%B4%E5%B1%82%EF%BC%8C%E5%90%B8%E6%94%B6%E4%B8%AD%E9%AB%98%E9%A2%91%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="穿孔板 上贴多孔吸声材料，加空气间层吸收中高频声" _mubu_text="%3Cspan%3E%E7%A9%BF%E5%AD%94%E6%9D%BF%20%E4%B8%8A%E8%B4%B4%E5%A4%9A%E5%AD%94%E5%90%B8%E5%A3%B0%E6%9D%90%E6%96%99%EF%BC%8C%E5%8A%A0%E7%A9%BA%E6%B0%94%E9%97%B4%E5%B1%82%E5%90%B8%E6%94%B6%E4%B8%AD%E9%AB%98%E9%A2%91%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="高" _mubu_text="%3Cspan%3E%E9%AB%98%3C/span%3E" _note="" _mubu_note="">
+      <outline text="多孔吸声材料， 空气间层，吸收中高频声" _mubu_text="%3Cspan%3E%E5%A4%9A%E5%AD%94%E5%90%B8%E5%A3%B0%E6%9D%90%E6%96%99%EF%BC%8C%20%E7%A9%BA%E6%B0%94%E9%97%B4%E5%B1%82%EF%BC%8C%E5%90%B8%E6%94%B6%E4%B8%AD%E9%AB%98%E9%A2%91%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="高压钠灯最节能，显色性最差，黄绿光" _mubu_text="%3Cspan%3E%E9%AB%98%E5%8E%8B%E9%92%A0%E7%81%AF%E6%9C%80%E8%8A%82%E8%83%BD%EF%BC%8C%E6%98%BE%E8%89%B2%E6%80%A7%E6%9C%80%E5%B7%AE%EF%BC%8C%E9%BB%84%E7%BB%BF%E5%85%89%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="白炽灯（钨丝灯）显色性最好，最费电" _mubu_text="%3Cspan%3E%E7%99%BD%E7%82%BD%E7%81%AF%EF%BC%88%E9%92%A8%E4%B8%9D%E7%81%AF%EF%BC%89%E6%98%BE%E8%89%B2%E6%80%A7%E6%9C%80%E5%A5%BD%EF%BC%8C%E6%9C%80%E8%B4%B9%E7%94%B5%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="防烟排烟区别" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E6%8E%92%E7%83%9F%E5%8C%BA%E5%88%AB%3C/span%3E" _note="" _mubu_note="">
+      <outline text="防烟" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note="">
+        <outline text="必须设置加压送风防烟" _mubu_text="%3Cspan%3E%E5%BF%85%E9%A1%BB%E8%AE%BE%E7%BD%AE%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note="">
+          <outline text="防烟楼梯间、独立前室、共用前室、合用前室、消防电梯前室应分别采用机械加压送风（不应设自然通风）。" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E6%A5%BC%E6%A2%AF%E9%97%B4%E3%80%81%E7%8B%AC%E7%AB%8B%E5%89%8D%E5%AE%A4%E3%80%81%E5%85%B1%E7%94%A8%E5%89%8D%E5%AE%A4%E3%80%81%E5%90%88%E7%94%A8%E5%89%8D%E5%AE%A4%E3%80%81%E6%B6%88%E9%98%B2%E7%94%B5%E6%A2%AF%E5%89%8D%E5%AE%A4%E5%BA%94%E5%88%86%E5%88%AB%E9%87%87%E7%94%A8%E6%9C%BA%E6%A2%B0%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%EF%BC%88%E4%B8%8D%E5%BA%94%E8%AE%BE%E8%87%AA%E7%84%B6%E9%80%9A%E9%A3%8E%EF%BC%89%E3%80%82%3C/span%3E" _note="" _mubu_note="">
+            <outline text="建筑高度大于50m的公共建筑、工业建筑" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E50m%E7%9A%84%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E3%80%81%E5%B7%A5%E4%B8%9A%E5%BB%BA%E7%AD%91%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="建筑高度大于100m的住宅建筑（大于可采用自然通风防烟的建筑高度）" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%E5%A4%A7%E4%BA%8E100m%E7%9A%84%E4%BD%8F%E5%AE%85%E5%BB%BA%E7%AD%91%EF%BC%88%E5%A4%A7%E4%BA%8E%E5%8F%AF%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E9%80%9A%E9%A3%8E%E9%98%B2%E7%83%9F%E7%9A%84%E5%BB%BA%E7%AD%91%E9%AB%98%E5%BA%A6%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="建筑不满足自然通风条件时，应采用机械加压送风。" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E4%B8%8D%E6%BB%A1%E8%B6%B3%E8%87%AA%E7%84%B6%E9%80%9A%E9%A3%8E%E6%9D%A1%E4%BB%B6%E6%97%B6%EF%BC%8C%E5%BA%94%E9%87%87%E7%94%A8%E6%9C%BA%E6%A2%B0%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="防烟分区" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%3C/span%3E" _note="" _mubu_note="">
+            <outline text="防烟分区最大面积500平米，长边的最大长度为24m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF500%E5%B9%B3%E7%B1%B3%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA24m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="防烟分区空间净高&gt;3m、：最大面积1000m2，长边的最大长度为36m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;3m%E3%80%81%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF1000m2%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA36m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="防烟分区空间净高&gt;6m：最大面积2000m2，长边的最大长度为60m；" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;6m%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF2000m2%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA60m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="空间净高&gt;6m：最大面积同上；自然对流时，长边的最大长度为75m；" _mubu_text="%3Cspan%3E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;6m%EF%BC%9A%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%90%8C%E4%B8%8A%EF%BC%9B%E8%87%AA%E7%84%B6%E5%AF%B9%E6%B5%81%E6%97%B6%EF%BC%8C%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA75m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="空间净高&gt;9m：可不设挡烟垂壁；走道宽度≤2.5m：长边的最大长度为60m；" _mubu_text="%3Cspan%3E%E7%A9%BA%E9%97%B4%E5%87%80%E9%AB%98&amp;gt;9m%EF%BC%9A%E5%8F%AF%E4%B8%8D%E8%AE%BE%E6%8C%A1%E7%83%9F%E5%9E%82%E5%A3%81%EF%BC%9B%E8%B5%B0%E9%81%93%E5%AE%BD%E5%BA%A6%E2%89%A42.5m%EF%BC%9A%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E4%B8%BA60m%EF%BC%9B%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="走道宽度&gt;2.5m：长边的最大长度按前四项设置。" _mubu_text="%3Cspan%3E%E8%B5%B0%E9%81%93%E5%AE%BD%E5%BA%A6&amp;gt;2.5m%EF%BC%9A%E9%95%BF%E8%BE%B9%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E6%8C%89%E5%89%8D%E5%9B%9B%E9%A1%B9%E8%AE%BE%E7%BD%AE%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="自然防烟部位及开口有效面积" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E9%98%B2%E7%83%9F%E9%83%A8%E4%BD%8D%E5%8F%8A%E5%BC%80%E5%8F%A3%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%3C/span%3E" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2221216ab0fab98205e-2949183%22%2C%22oh%22%3A523%2C%22ow%22%3A1036%2C%22uri%22%3A%22document_image%2F44a1ef55-a96c-47a6-b1c0-8bde63dfb800-2949183.jpg%22%7D%5D">
+              <outline text="楼梯间每两到三层设置一个加压送风防烟" _mubu_text="%3Cspan%3E%E6%A5%BC%E6%A2%AF%E9%97%B4%E6%AF%8F%E4%B8%A4%E5%88%B0%E4%B8%89%E5%B1%82%E8%AE%BE%E7%BD%AE%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="前室每层设置加压送风防烟" _mubu_text="%3Cspan%3E%E5%89%8D%E5%AE%A4%E6%AF%8F%E5%B1%82%E8%AE%BE%E7%BD%AE%E5%8A%A0%E5%8E%8B%E9%80%81%E9%A3%8E%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      <outline text="排烟" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note="">
+        <outline text="1.自然排烟窗（口）的设置场所" _mubu_text="%3Cspan%3E1.%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E8%AE%BE%E7%BD%AE%E5%9C%BA%E6%89%80%3C/span%3E" _note="" _mubu_note="">
+          <outline text="+" _mubu_text="%3Cspan%3E+%3C/span%3E" _note="" _mubu_note="">
+            <outline text="自然排烟场所应设置自然排烟窗（口）。" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E5%9C%BA%E6%89%80%E5%BA%94%E8%AE%BE%E7%BD%AE%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="2.自然排烟窗（口）有效面积的确定" _mubu_text="%3Cspan%3E2.%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E7%9A%84%E7%A1%AE%E5%AE%9A%3C/span%3E" _note="" _mubu_note="">
+              <outline text="除中庭外，一个防烟分区自然排烟窗（口）的有效面积应满足以下规定：" _mubu_text="%3Cspan%3E%E9%99%A4%E4%B8%AD%E5%BA%AD%E5%A4%96%EF%BC%8C%E4%B8%80%E4%B8%AA%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%BA%94%E6%BB%A1%E8%B6%B3%E4%BB%A5%E4%B8%8B%E8%A7%84%E5%AE%9A%EF%BC%9A%3C/span%3E" _note="" _mubu_note="">
+                <outline text="（1）房间排烟且净高≤6m时，自然排烟窗（口）的有效面积应≥该防烟分区建筑面积的2%。" _mubu_text="%3Cspan%3E%EF%BC%881%EF%BC%89%E6%88%BF%E9%97%B4%E6%8E%92%E7%83%9F%E4%B8%94%E5%87%80%E9%AB%98%E2%89%A46m%E6%97%B6%EF%BC%8C%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%BA%94%E2%89%A5%E8%AF%A5%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E7%9A%842%25%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+                <outline text="（2）房间排烟且净高&gt;6m时，自然排烟窗（口）的有效面积应经计算确定。" _mubu_text="%3Cspan%3E%EF%BC%882%EF%BC%89%E6%88%BF%E9%97%B4%E6%8E%92%E7%83%9F%E4%B8%94%E5%87%80%E9%AB%98&amp;gt;6m%E6%97%B6%EF%BC%8C%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%BA%94%E7%BB%8F%E8%AE%A1%E7%AE%97%E7%A1%AE%E5%AE%9A%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+                <outline text="（3）仅需在走道、回廊排烟时，两端自然排烟窗（口）有效面积均应≥2m2且自然排烟窗（口）的距离不应小于走道长度的2/3。" _mubu_text="%3Cspan%3E%EF%BC%883%EF%BC%89%E4%BB%85%E9%9C%80%E5%9C%A8%E8%B5%B0%E9%81%93%E3%80%81%E5%9B%9E%E5%BB%8A%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E4%B8%A4%E7%AB%AF%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%9D%87%E5%BA%94%E2%89%A52m2%E4%B8%94%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E8%B5%B0%E9%81%93%E9%95%BF%E5%BA%A6%E7%9A%842/3%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+                <outline text="（4）房间、走道、回廊均排烟时，自然排烟窗（口）有效面积应≥该走道、回廊建筑（5）中庭排烟时（中庭周围场所设排烟），自然排烟窗（口）有效面积应经计算确定且≥60m²。" _mubu_text="%3Cspan%3E%EF%BC%884%EF%BC%89%E6%88%BF%E9%97%B4%E3%80%81%E8%B5%B0%E9%81%93%E3%80%81%E5%9B%9E%E5%BB%8A%E5%9D%87%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%BA%94%E2%89%A5%E8%AF%A5%E8%B5%B0%E9%81%93%E3%80%81%E5%9B%9E%E5%BB%8A%E5%BB%BA%E7%AD%91%EF%BC%885%EF%BC%89%E4%B8%AD%E5%BA%AD%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%88%E4%B8%AD%E5%BA%AD%E5%91%A8%E5%9B%B4%E5%9C%BA%E6%89%80%E8%AE%BE%E6%8E%92%E7%83%9F%EF%BC%89%EF%BC%8C%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%BA%94%E7%BB%8F%E8%AE%A1%E7%AE%97%E7%A1%AE%E5%AE%9A%E4%B8%94%E2%89%A560m%C2%B2%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+                <outline text="（6）中庭排烟时（中庭周围场所不需设排烟仅在回廊排烟），自然排烟窗（口）有效面积应经计算确定且≥28m2。" _mubu_text="%3Cspan%3E%EF%BC%886%EF%BC%89%E4%B8%AD%E5%BA%AD%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%88%E4%B8%AD%E5%BA%AD%E5%91%A8%E5%9B%B4%E5%9C%BA%E6%89%80%E4%B8%8D%E9%9C%80%E8%AE%BE%E6%8E%92%E7%83%9F%E4%BB%85%E5%9C%A8%E5%9B%9E%E5%BB%8A%E6%8E%92%E7%83%9F%EF%BC%89%EF%BC%8C%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E6%9C%89%E6%95%88%E9%9D%A2%E7%A7%AF%E5%BA%94%E7%BB%8F%E8%AE%A1%E7%AE%97%E7%A1%AE%E5%AE%9A%E4%B8%94%E2%89%A528m2%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              </outline>
+            </outline>
+            <outline text="3.自然排烟窗（口）的位置" _mubu_text="%3Cspan%3E3.%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E4%BD%8D%E7%BD%AE%3C/span%3E" _note="" _mubu_note="">
+              <outline text="自然排烟窗（口）距防烟分区内任点水平距离不应大于30m" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E8%B7%9D%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E5%86%85%E4%BB%BB%E7%82%B9%E6%B0%B4%E5%B9%B3%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%BA%94%E5%A4%A7%E4%BA%8E30m%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="（此距离也适用于机械排烟）；当净高≥6m且具有自然对流条件时，不应大于37.5m（此距离不适用于机械排姻）。" _mubu_text="%3Cspan%3E%EF%BC%88%E6%AD%A4%E8%B7%9D%E7%A6%BB%E4%B9%9F%E9%80%82%E7%94%A8%E4%BA%8E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%EF%BC%89%EF%BC%9B%E5%BD%93%E5%87%80%E9%AB%98%E2%89%A56m%E4%B8%94%E5%85%B7%E6%9C%89%E8%87%AA%E7%84%B6%E5%AF%B9%E6%B5%81%E6%9D%A1%E4%BB%B6%E6%97%B6%EF%BC%8C%E4%B8%8D%E5%BA%94%E5%A4%A7%E4%BA%8E37.5m%EF%BC%88%E6%AD%A4%E8%B7%9D%E7%A6%BB%E4%B8%8D%E9%80%82%E7%94%A8%E4%BA%8E%E6%9C%BA%E6%A2%B0%E6%8E%92%E5%A7%BB%EF%BC%89%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+            <outline text="4.自然排烟窗（口）的布置要求" _mubu_text="%3Cspan%3E4.%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E7%9A%84%E5%B8%83%E7%BD%AE%E8%A6%81%E6%B1%82%3C/span%3E" _note="" _mubu_note="">
+              <outline text="自然排烟窗（口）宜分散、均匀布置，每组长度不宜大于3.0m。" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E5%AE%9C%E5%88%86%E6%95%A3%E3%80%81%E5%9D%87%E5%8C%80%E5%B8%83%E7%BD%AE%EF%BC%8C%E6%AF%8F%E7%BB%84%E9%95%BF%E5%BA%A6%E4%B8%8D%E5%AE%9C%E5%A4%A7%E4%BA%8E3.0m%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="自然排烟窗（口）设在防火墙两侧时，最近边缘的水平距离不应小于2.0m。" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%AA%97%EF%BC%88%E5%8F%A3%EF%BC%89%E8%AE%BE%E5%9C%A8%E9%98%B2%E7%81%AB%E5%A2%99%E4%B8%A4%E4%BE%A7%E6%97%B6%EF%BC%8C%E6%9C%80%E8%BF%91%E8%BE%B9%E7%BC%98%E7%9A%84%E6%B0%B4%E5%B9%B3%E8%B7%9D%E7%A6%BB%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E2.0m%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="自然排烟的排烟方式开窗面积" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%9A%84%E6%8E%92%E7%83%9F%E6%96%B9%E5%BC%8F%E5%BC%80%E7%AA%97%E9%9D%A2%E7%A7%AF%3C/span%3E" _note="" _mubu_note="">
+          <outline text="自然排烟的排烟方式开窗面积" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%9A%84%E6%8E%92%E7%83%9F%E6%96%B9%E5%BC%8F%E5%BC%80%E7%AA%97%E9%9D%A2%E7%A7%AF%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="排烟分为机械排烟和可开启外窗的自然排烟" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E5%88%86%E4%B8%BA%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E5%92%8C%E5%8F%AF%E5%BC%80%E5%90%AF%E5%A4%96%E7%AA%97%E7%9A%84%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="自然排烟的排烟方式开窗面积：" _mubu_text="%3Cspan%3E%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%9A%84%E6%8E%92%E7%83%9F%E6%96%B9%E5%BC%8F%E5%BC%80%E7%AA%97%E9%9D%A2%E7%A7%AF%EF%BC%9A%3C/span%3E" _note="" _mubu_note="">
+            <outline text="走道、房间可开启外窗面积不应小于走道、房间面积的 2％。" _mubu_text="%3Cspan%3E%E8%B5%B0%E9%81%93%E3%80%81%E6%88%BF%E9%97%B4%E5%8F%AF%E5%BC%80%E5%90%AF%E5%A4%96%E7%AA%97%E9%9D%A2%E7%A7%AF%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E8%B5%B0%E9%81%93%E3%80%81%E6%88%BF%E9%97%B4%E9%9D%A2%E7%A7%AF%E7%9A%84%202%EF%BC%85%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="中庭有天窗或高侧窗采用自然排烟时，可开启外窗面积不应小于中庭地面积的  5％。中庭高度超过12米时只能机械排烟。" _mubu_text="%3Cspan%3E%E4%B8%AD%E5%BA%AD%E6%9C%89%E5%A4%A9%E7%AA%97%E6%88%96%E9%AB%98%E4%BE%A7%E7%AA%97%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E6%97%B6%EF%BC%8C%E5%8F%AF%E5%BC%80%E5%90%AF%E5%A4%96%E7%AA%97%E9%9D%A2%E7%A7%AF%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E%E4%B8%AD%E5%BA%AD%E5%9C%B0%E9%9D%A2%E7%A7%AF%E7%9A%84%20%205%EF%BC%85%E3%80%82%E4%B8%AD%E5%BA%AD%E9%AB%98%E5%BA%A6%E8%B6%85%E8%BF%8712%E7%B1%B3%E6%97%B6%E5%8F%AA%E8%83%BD%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+        </outline>
+        <outline text="机械排烟" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note="">
+          <outline text="机械排烟设施设置场所" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E8%AE%BE%E6%96%BD%E8%AE%BE%E7%BD%AE%E5%9C%BA%E6%89%80%3C/span%3E" _note="" _mubu_note="">
+            <outline text="机械排烟   机械排烟系统实质上就是一个排风系统。适用于不具备自然排烟条件或较难进行自然排烟的 走道、房间、中庭及地下室。设置机械排烟" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%20%20%20%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B4%A8%E4%B8%8A%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E6%8E%92%E9%A3%8E%E7%B3%BB%E7%BB%9F%E3%80%82%E9%80%82%E7%94%A8%E4%BA%8E%E4%B8%8D%E5%85%B7%E5%A4%87%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E6%9D%A1%E4%BB%B6%E6%88%96%E8%BE%83%E9%9A%BE%E8%BF%9B%E8%A1%8C%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%E7%9A%84%20%E8%B5%B0%E9%81%93%E3%80%81%E6%88%BF%E9%97%B4%E3%80%81%E4%B8%AD%E5%BA%AD%E5%8F%8A%E5%9C%B0%E4%B8%8B%E5%AE%A4%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="设置在一、二、三层且房间建筑面积大于 100 m2的歌舞娱乐放映 游艺场所，设置在四层及以上楼层、地下或半地下的歌舞娱乐放映游艺场所。设置机械排烟" _mubu_text="%3Cspan%3E%E8%AE%BE%E7%BD%AE%E5%9C%A8%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%82%E4%B8%94%E6%88%BF%E9%97%B4%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E%20100%20m2%E7%9A%84%E6%AD%8C%E8%88%9E%E5%A8%B1%E4%B9%90%E6%94%BE%E6%98%A0%20%E6%B8%B8%E8%89%BA%E5%9C%BA%E6%89%80%EF%BC%8C%E8%AE%BE%E7%BD%AE%E5%9C%A8%E5%9B%9B%E5%B1%82%E5%8F%8A%E4%BB%A5%E4%B8%8A%E6%A5%BC%E5%B1%82%E3%80%81%E5%9C%B0%E4%B8%8B%E6%88%96%E5%8D%8A%E5%9C%B0%E4%B8%8B%E7%9A%84%E6%AD%8C%E8%88%9E%E5%A8%B1%E4%B9%90%E6%94%BE%E6%98%A0%E6%B8%B8%E8%89%BA%E5%9C%BA%E6%89%80%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="中庭" _mubu_text="%3Cspan%3E%E4%B8%AD%E5%BA%AD%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="公共建筑内建筑面积大于·100 平米且经常有人停留的地上房间，设置机械排烟" _mubu_text="%3Cspan%3E%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E5%86%85%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E%C2%B7100%20%E5%B9%B3%E7%B1%B3%E4%B8%94%E7%BB%8F%E5%B8%B8%E6%9C%89%E4%BA%BA%E5%81%9C%E7%95%99%E7%9A%84%E5%9C%B0%E4%B8%8A%E6%88%BF%E9%97%B4%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="公共建筑内建筑面积大于·300 平米且可燃物较多的地上房间。设置机械排烟" _mubu_text="%3Cspan%3E%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AD%91%E5%86%85%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E%C2%B7300%20%E5%B9%B3%E7%B1%B3%E4%B8%94%E5%8F%AF%E7%87%83%E7%89%A9%E8%BE%83%E5%A4%9A%E7%9A%84%E5%9C%B0%E4%B8%8A%E6%88%BF%E9%97%B4%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="建筑内长度大于20m的疏散走道。设置机械排烟" _mubu_text="%3Cspan%3E%E5%BB%BA%E7%AD%91%E5%86%85%E9%95%BF%E5%BA%A6%E5%A4%A7%E4%BA%8E20m%E7%9A%84%E7%96%8F%E6%95%A3%E8%B5%B0%E9%81%93%E3%80%82%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="地下或半地下建筑（室）、地上建筑内的无窗房间，当总建筑面积大于200平米，设置机械排烟" _mubu_text="%3Cspan%3E%E5%9C%B0%E4%B8%8B%E6%88%96%E5%8D%8A%E5%9C%B0%E4%B8%8B%E5%BB%BA%E7%AD%91%EF%BC%88%E5%AE%A4%EF%BC%89%E3%80%81%E5%9C%B0%E4%B8%8A%E5%BB%BA%E7%AD%91%E5%86%85%E7%9A%84%E6%97%A0%E7%AA%97%E6%88%BF%E9%97%B4%EF%BC%8C%E5%BD%93%E6%80%BB%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E200%E5%B9%B3%E7%B1%B3%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="地下或半地下建筑（室）、地上建筑内的无窗房间，一个房间建筑面积大于50平米，且经常有人停留或可燃物较多时，应设置排烟设施。" _mubu_text="%3Cspan%3E%E5%9C%B0%E4%B8%8B%E6%88%96%E5%8D%8A%E5%9C%B0%E4%B8%8B%E5%BB%BA%E7%AD%91%EF%BC%88%E5%AE%A4%EF%BC%89%E3%80%81%E5%9C%B0%E4%B8%8A%E5%BB%BA%E7%AD%91%E5%86%85%E7%9A%84%E6%97%A0%E7%AA%97%E6%88%BF%E9%97%B4%EF%BC%8C%E4%B8%80%E4%B8%AA%E6%88%BF%E9%97%B4%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A4%A7%E4%BA%8E50%E5%B9%B3%E7%B1%B3%EF%BC%8C%E4%B8%94%E7%BB%8F%E5%B8%B8%E6%9C%89%E4%BA%BA%E5%81%9C%E7%95%99%E6%88%96%E5%8F%AF%E7%87%83%E7%89%A9%E8%BE%83%E5%A4%9A%E6%97%B6%EF%BC%8C%E5%BA%94%E8%AE%BE%E7%BD%AE%E6%8E%92%E7%83%9F%E8%AE%BE%E6%96%BD%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="地下建筑和地上密闭场所的机械排烟系统，应设置补风系统，设置机械排烟" _mubu_text="%3Cspan%3E%E5%9C%B0%E4%B8%8B%E5%BB%BA%E7%AD%91%E5%92%8C%E5%9C%B0%E4%B8%8A%E5%AF%86%E9%97%AD%E5%9C%BA%E6%89%80%E7%9A%84%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%BA%94%E8%AE%BE%E7%BD%AE%E8%A1%A5%E9%A3%8E%E7%B3%BB%E7%BB%9F%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+          <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note="">
+      <outline text="防火阀设置" _mubu_text="%3Cspan%3E%E9%98%B2%E7%81%AB%E9%98%80%E8%AE%BE%E7%BD%AE%3C/span%3E" _note="" _mubu_note="">
+        <outline text="防火阀设置" _mubu_text="%3Cspan%3E%E9%98%B2%E7%81%AB%E9%98%80%E8%AE%BE%E7%BD%AE%3C/span%3E" _note="" _mubu_note="">
+          <outline text="1.通风空调风管下列部位应设70℃防火阀（1）穿越防火分区处。" _mubu_text="%3Cspan%3E1.%E9%80%9A%E9%A3%8E%E7%A9%BA%E8%B0%83%E9%A3%8E%E7%AE%A1%E4%B8%8B%E5%88%97%E9%83%A8%E4%BD%8D%E5%BA%94%E8%AE%BE70%E2%84%83%E9%98%B2%E7%81%AB%E9%98%80%EF%BC%881%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%98%B2%E7%81%AB%E5%88%86%E5%8C%BA%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note="">
+            <outline text="（2）穿越通风、空调机房隔墙和楼板处。" _mubu_text="%3Cspan%3E%EF%BC%882%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%80%9A%E9%A3%8E%E3%80%81%E7%A9%BA%E8%B0%83%E6%9C%BA%E6%88%BF%E9%9A%94%E5%A2%99%E5%92%8C%E6%A5%BC%E6%9D%BF%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="（3）穿越重要或火灾危险性大的隔墙和楼板处。" _mubu_text="%3Cspan%3E%EF%BC%883%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%87%8D%E8%A6%81%E6%88%96%E7%81%AB%E7%81%BE%E5%8D%B1%E9%99%A9%E6%80%A7%E5%A4%A7%E7%9A%84%E9%9A%94%E5%A2%99%E5%92%8C%E6%A5%BC%E6%9D%BF%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="（4）穿越防火分隔处的变形缝两侧。" _mubu_text="%3Cspan%3E%EF%BC%884%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%98%B2%E7%81%AB%E5%88%86%E9%9A%94%E5%A4%84%E7%9A%84%E5%8F%98%E5%BD%A2%E7%BC%9D%E4%B8%A4%E4%BE%A7%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="（5）竖向风管与每层水平风管交接处的水平管段上。" _mubu_text="%3Cspan%3E%EF%BC%885%EF%BC%89%E7%AB%96%E5%90%91%E9%A3%8E%E7%AE%A1%E4%B8%8E%E6%AF%8F%E5%B1%82%E6%B0%B4%E5%B9%B3%E9%A3%8E%E7%AE%A1%E4%BA%A4%E6%8E%A5%E5%A4%84%E7%9A%84%E6%B0%B4%E5%B9%B3%E7%AE%A1%E6%AE%B5%E4%B8%8A%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%223416ab0f44602151-2949183%22%2C%22oh%22%3A557%2C%22ow%22%3A726%2C%22uri%22%3A%22document_image%2F135b520c-9b6d-4ae7-b0b0-376db83e4c90-2949183.jpg%22%7D%5D"/>
+          </outline>
+        </outline>
+        <outline text="排烟防火阀设置" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E9%98%B2%E7%81%AB%E9%98%80%E8%AE%BE%E7%BD%AE%3C/span%3E" _note="" _mubu_note="">
+          <outline text="2.排烟管道下列部位应设280℃熔断关闭排烟防火阀（1）垂直风管与每层水平风管交接处的水平管段上。" _mubu_text="%3Cspan%3E2.%E6%8E%92%E7%83%9F%E7%AE%A1%E9%81%93%E4%B8%8B%E5%88%97%E9%83%A8%E4%BD%8D%E5%BA%94%E8%AE%BE280%E2%84%83%E7%86%94%E6%96%AD%E5%85%B3%E9%97%AD%E6%8E%92%E7%83%9F%E9%98%B2%E7%81%AB%E9%98%80%EF%BC%881%EF%BC%89%E5%9E%82%E7%9B%B4%E9%A3%8E%E7%AE%A1%E4%B8%8E%E6%AF%8F%E5%B1%82%E6%B0%B4%E5%B9%B3%E9%A3%8E%E7%AE%A1%E4%BA%A4%E6%8E%A5%E5%A4%84%E7%9A%84%E6%B0%B4%E5%B9%B3%E7%AE%A1%E6%AE%B5%E4%B8%8A%E3%80%82%3C/span%3E" _note="" _mubu_note="">
+            <outline text="（2）一个排烟系统负担多个防烟分区的排烟支管上。" _mubu_text="%3Cspan%3E%EF%BC%882%EF%BC%89%E4%B8%80%E4%B8%AA%E6%8E%92%E7%83%9F%E7%B3%BB%E7%BB%9F%E8%B4%9F%E6%8B%85%E5%A4%9A%E4%B8%AA%E9%98%B2%E7%83%9F%E5%88%86%E5%8C%BA%E7%9A%84%E6%8E%92%E7%83%9F%E6%94%AF%E7%AE%A1%E4%B8%8A%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="（3）排烟风机入口处。" _mubu_text="%3Cspan%3E%EF%BC%883%EF%BC%89%E6%8E%92%E7%83%9F%E9%A3%8E%E6%9C%BA%E5%85%A5%E5%8F%A3%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="（4）穿越防火分区处。" _mubu_text="%3Cspan%3E%EF%BC%884%EF%BC%89%E7%A9%BF%E8%B6%8A%E9%98%B2%E7%81%AB%E5%88%86%E5%8C%BA%E5%A4%84%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="防烟排烟区别" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E6%8E%92%E7%83%9F%E5%8C%BA%E5%88%AB%3C/span%3E" _note="" _mubu_note="">
+        <outline text="防烟分两种" _mubu_text="%3Cspan%3E%E9%98%B2%E7%83%9F%E5%88%86%E4%B8%A4%E7%A7%8D%3C/span%3E" _note="" _mubu_note="">
+          <outline text="机械加压防烟" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E5%8A%A0%E5%8E%8B%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="开窗压力防烟" _mubu_text="%3Cspan%3E%E5%BC%80%E7%AA%97%E5%8E%8B%E5%8A%9B%E9%98%B2%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+        <outline text="排烟分两种" _mubu_text="%3Cspan%3E%E6%8E%92%E7%83%9F%E5%88%86%E4%B8%A4%E7%A7%8D%3C/span%3E" _note="" _mubu_note="">
+          <outline text="机械排烟" _mubu_text="%3Cspan%3E%E6%9C%BA%E6%A2%B0%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="开窗自然排烟" _mubu_text="%3Cspan%3E%E5%BC%80%E7%AA%97%E8%87%AA%E7%84%B6%E6%8E%92%E7%83%9F%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="声学" _mubu_text="%3Cspan%3E%E5%A3%B0%E5%AD%A6%3C/span%3E" _note="" _mubu_note="">
+      <outline text="吸声系数     只算1减去反射比" _mubu_text="%3Cspan%3E%E5%90%B8%E5%A3%B0%E7%B3%BB%E6%95%B0%20%20%20%20%20%E5%8F%AA%E7%AE%971%E5%87%8F%E5%8E%BB%E5%8F%8D%E5%B0%84%E6%AF%94%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="低频声音指向性弱" _mubu_text="%3Cspan%3E%E4%BD%8E%E9%A2%91%E5%A3%B0%E9%9F%B3%E6%8C%87%E5%90%91%E6%80%A7%E5%BC%B1%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="空气隔声" _mubu_text="%3Cspan%3E%E7%A9%BA%E6%B0%94%E9%9A%94%E5%A3%B0%3C/span%3E" _note="" _mubu_note="">
+        <outline text="隔声墙质量越大越隔声" _mubu_text="%3Cspan%3E%E9%9A%94%E5%A3%B0%E5%A2%99%E8%B4%A8%E9%87%8F%E8%B6%8A%E5%A4%A7%E8%B6%8A%E9%9A%94%E5%A3%B0%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="每增加一倍质量、密度，多隔6分贝" _mubu_text="%3Cspan%3E%E6%AF%8F%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%80%8D%E8%B4%A8%E9%87%8F%E3%80%81%E5%AF%86%E5%BA%A6%EF%BC%8C%E5%A4%9A%E9%9A%946%E5%88%86%E8%B4%9D%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="撞击声" _mubu_text="%3Cspan%3E%E6%92%9E%E5%87%BB%E5%A3%B0%3C/span%3E" _note="" _mubu_note="">
+        <outline text="地毯橡胶软木" _mubu_text="%3Cspan%3E%E5%9C%B0%E6%AF%AF%E6%A9%A1%E8%83%B6%E8%BD%AF%E6%9C%A8%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="浮筑地板" _mubu_text="%3Cspan%3E%E6%B5%AE%E7%AD%91%E5%9C%B0%E6%9D%BF%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="隔声吊顶" _mubu_text="%3Cspan%3E%E9%9A%94%E5%A3%B0%E5%90%8A%E9%A1%B6%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="光学" _mubu_text="%3Cspan%3E%E5%85%89%E5%AD%A6%3C/span%3E" _note="" _mubu_note="">
+      <outline text="定义公式" _mubu_text="%3Cspan%3E%E5%AE%9A%E4%B9%89%E5%85%AC%E5%BC%8F%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%223c216ad9222c78135-2949183%22%2C%22oh%22%3A425%2C%22ow%22%3A740%2C%22uri%22%3A%22document_image%2F60d927df-d8a9-44cb-9a70-cc62c3317249-2949183.jpg%22%7D%5D"/>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      <outline text="灯光光谱" _mubu_text="%3Cspan%3E%E7%81%AF%E5%85%89%E5%85%89%E8%B0%B1%3C/span%3E" _note="" _mubu_note="">
+        <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2239216ad91e392e14e-2949183%22%2C%22oh%22%3A300%2C%22ow%22%3A474%2C%22uri%22%3A%22document_image%2Fa915dbe0-e13b-4862-8d94-697112216f55-2949183.jpg%22%7D%5D"/>
+        <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      <outline text="均匀扩散材料表面的亮度公式计算：" _mubu_text="%3Cspan%3E%E5%9D%87%E5%8C%80%E6%89%A9%E6%95%A3%E6%9D%90%E6%96%99%E8%A1%A8%E9%9D%A2%E7%9A%84%E4%BA%AE%E5%BA%A6%E5%85%AC%E5%BC%8F%E8%AE%A1%E7%AE%97%EF%BC%9A%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2233b16ad903b9b40fb-2949183%22%2C%22oh%22%3A106%2C%22ow%22%3A190%2C%22uri%22%3A%22document_image%2Fbbb897c6-9d16-466a-bbe0-13d754ffa2e4-2949183.jpg%22%7D%5D"/>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+      <outline text="反射材料" _mubu_text="%3Cspan%3E%E5%8F%8D%E5%B0%84%E6%9D%90%E6%96%99%3C/span%3E" _note="" _mubu_note="">
+        <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2226116ad902e6c6145-2949183%22%2C%22oh%22%3A101%2C%22ow%22%3A165%2C%22uri%22%3A%22document_image%2F9b8ca821-b784-44a5-861b-0c271f618a39-2949183.jpg%22%2C%22w%22%3A66%7D%5D">
+          <outline text="cd/m2" _mubu_text="%3Cspan%3Ecd/m2%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="透射材料" _mubu_text="%3Cspan%3E%E9%80%8F%E5%B0%84%E6%9D%90%E6%96%99%3C/span%3E" _note="" _mubu_note="">
+        <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2210216ad903189a05d-2949183%22%2C%22oh%22%3A96%2C%22ow%22%3A152%2C%22uri%22%3A%22document_image%2Ff0425509-80d5-48ca-b3e3-69e11912750f-2949183.jpg%22%2C%22w%22%3A70%7D%5D">
+          <outline text="cd/m2" _mubu_text="%3Cspan%3Ecd/m2%3C/span%3E" _note="" _mubu_note=""/>
+        </outline>
+      </outline>
+      <outline text="朗伯余弦定理" _mubu_text="%3Cspan%3E%E6%9C%97%E4%BC%AF%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86%3C/span%3E" _note="" _mubu_note="">
+        <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%222e216ad90387a00ab-2949183%22%2C%22oh%22%3A49%2C%22ow%22%3A183%2C%22uri%22%3A%22document_image%2F5f35d7f0-a141-470e-b17b-849eaa9e96d4-2949183.jpg%22%2C%22w%22%3A110%7D%5D"/>
+      </outline>
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%22c816ad902681004b-2949183%22%2C%22oh%22%3A106%2C%22ow%22%3A190%2C%22uri%22%3A%22document_image%2Fdf62c633-3c22-4e29-b20f-b515f36fff51-2949183.jpg%22%7D%5D">
+      <outline text="光气候分区图" _mubu_text="%3Cspan%3E%E5%85%89%E6%B0%94%E5%80%99%E5%88%86%E5%8C%BA%E5%9B%BE%3C/span%3E" _note="" _mubu_note="">
+        <outline text="依据   年平均总照度分布图进行的分区" _mubu_text="%3Cspan%3E%E4%BE%9D%E6%8D%AE%20%20%20%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%80%BB%E7%85%A7%E5%BA%A6%E5%88%86%E5%B8%83%E5%9B%BE%E8%BF%9B%E8%A1%8C%E7%9A%84%E5%88%86%E5%8C%BA%3C/span%3E" _note="" _mubu_note="">
+          <outline text="所有有地图的图PS到同一个PS文件内来记" _mubu_text="%3Cspan%3E%E6%89%80%E6%9C%89%E6%9C%89%E5%9C%B0%E5%9B%BE%E7%9A%84%E5%9B%BEPS%E5%88%B0%E5%90%8C%E4%B8%80%E4%B8%AAPS%E6%96%87%E4%BB%B6%E5%86%85%E6%9D%A5%E8%AE%B0%3C/span%3E" _note="" _mubu_note=""/>
+          <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2221416ad93d34f60a4-2949183%22%2C%22oh%22%3A441%2C%22ow%22%3A650%2C%22uri%22%3A%22document_image%2F5c71c339-0440-4bd2-8afb-3fb608b7c3f2-2949183.jpg%22%7D%5D"/>
+        </outline>
+        <outline text="光气候系数K值与室外天然光临值界照度Es" _mubu_text="%3Cspan%3E%E5%85%89%E6%B0%94%E5%80%99%E7%B3%BB%E6%95%B0K%E5%80%BC%E4%B8%8E%E5%AE%A4%E5%A4%96%E5%A4%A9%E7%84%B6%E5%85%89%E4%B8%B4%E5%80%BC%E7%95%8C%E7%85%A7%E5%BA%A6Es%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%22416ad940187f053-2949183%22%2C%22oh%22%3A152%2C%22ow%22%3A478%2C%22uri%22%3A%22document_image%2Ff123be87-e24c-4e37-87a6-7a6547457e91-2949183.jpg%22%7D%5D"/>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note="">
+      <outline text="各采光等级参考平面上的采光标准值" _mubu_text="%3Cspan%3E%E5%90%84%E9%87%87%E5%85%89%E7%AD%89%E7%BA%A7%E5%8F%82%E8%80%83%E5%B9%B3%E9%9D%A2%E4%B8%8A%E7%9A%84%E9%87%87%E5%85%89%E6%A0%87%E5%87%86%E5%80%BC%3C/span%3E" _note="" _mubu_note="">
+        <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2230116ad942390004d-2949183%22%2C%22oh%22%3A152%2C%22ow%22%3A478%2C%22uri%22%3A%22document_image%2F3ef81095-61f7-474a-8d03-8be4fe7a9adb-2949183.jpg%22%7D%5D"/>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note="">
+      <outline text="窗地面积比" _mubu_text="%3Cspan%3E%E7%AA%97%E5%9C%B0%E9%9D%A2%E7%A7%AF%E6%AF%94%3C/span%3E" _note="" _mubu_note="">
+        <outline text="各类建筑走道、楼梯间、卫生间：                          1/10 （1%，150 lx）" _mubu_text="%3Cspan%3E%E5%90%84%E7%B1%BB%E5%BB%BA%E7%AD%91%E8%B5%B0%E9%81%93%E3%80%81%E6%A5%BC%E6%A2%AF%E9%97%B4%E3%80%81%E5%8D%AB%E7%94%9F%E9%97%B4%EF%BC%9A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201/10%20%EF%BC%881%25%EF%BC%8C150%20lx%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="住宅卧室、起居室、厨房    	                             1/6   （2%，300 lx）" _mubu_text="%3Cspan%3E%E4%BD%8F%E5%AE%85%E5%8D%A7%E5%AE%A4%E3%80%81%E8%B5%B7%E5%B1%85%E5%AE%A4%E3%80%81%E5%8E%A8%E6%88%BF%20%20%20%20%09%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201/6%20%20%20%EF%BC%882%25%EF%BC%8C300%20lx%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="图书馆目录室：                                                          1/6" _mubu_text="%3Cspan%3E%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9B%AE%E5%BD%95%E5%AE%A4%EF%BC%9A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201/6%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="学校专用教室、办公建筑的办公室、会议室          1/5   （3%，450 lx）" _mubu_text="%3Cspan%3E%E5%AD%A6%E6%A0%A1%E4%B8%93%E7%94%A8%E6%95%99%E5%AE%A4%E3%80%81%E5%8A%9E%E5%85%AC%E5%BB%BA%E7%AD%91%E7%9A%84%E5%8A%9E%E5%85%AC%E5%AE%A4%E3%80%81%E4%BC%9A%E8%AE%AE%E5%AE%A4%20%20%20%20%20%20%20%20%20%201/5%20%20%20%EF%BC%883%25%EF%BC%8C450%20lx%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="综合医院诊室、药房：                                              1/5" _mubu_text="%3Cspan%3E%E7%BB%BC%E5%90%88%E5%8C%BB%E9%99%A2%E8%AF%8A%E5%AE%A4%E3%80%81%E8%8D%AF%E6%88%BF%EF%BC%9A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201/5%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="图书馆阅览室、开架书库                                          1/5" _mubu_text="%3Cspan%3E%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%98%85%E8%A7%88%E5%AE%A4%E3%80%81%E5%BC%80%E6%9E%B6%E4%B9%A6%E5%BA%93%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201/5%3C/span%3E" _note="" _mubu_note=""/>
+        <outline text="办公建筑的设计室、绘图室               	              1/4   （4%，600 lx）" _mubu_text="%3Cspan%3E%E5%8A%9E%E5%85%AC%E5%BB%BA%E7%AD%91%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%AE%A4%E3%80%81%E7%BB%98%E5%9B%BE%E5%AE%A4%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%09%20%20%20%20%20%20%20%20%20%20%20%20%20%201/4%20%20%20%EF%BC%884%25%EF%BC%8C600%20lx%EF%BC%89%3C/span%3E" _note="" _mubu_note=""/>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note="">
+      <outline text="进到房间的品骏照度计算" _mubu_text="%3Cspan%3E%E8%BF%9B%E5%88%B0%E6%88%BF%E9%97%B4%E7%9A%84%E5%93%81%E9%AA%8F%E7%85%A7%E5%BA%A6%E8%AE%A1%E7%AE%97%3C/span%3E" _note="" _mubu_note="">
+        <outline text="侧窗采光计算" _mubu_text="%3Cspan%3E%E4%BE%A7%E7%AA%97%E9%87%87%E5%85%89%E8%AE%A1%E7%AE%97%3C/span%3E" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%222f016ad94881f915a-2949183%22%2C%22oh%22%3A123%2C%22ow%22%3A288%2C%22uri%22%3A%22document_image%2Fd7e72244-4724-48ff-b80f-ac052dd24353-2949183.jpg%22%7D%5D">
+          <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2235c16ad9488e9f188-2949183%22%2C%22oh%22%3A123%2C%22ow%22%3A288%2C%22uri%22%3A%22document_image%2Fec22222f-bf31-4b07-823b-1a2b0b874dc6-2949183.jpg%22%2C%22w%22%3A150%7D%5D">
+            <outline text="τ——窗的总透射比;" _mubu_text="%3Cspan%3E%CF%84%E2%80%94%E2%80%94%E7%AA%97%E7%9A%84%E6%80%BB%E9%80%8F%E5%B0%84%E6%AF%94;%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="Ac——窗洞口面积(m2 );" _mubu_text="%3Cspan%3EAc%E2%80%94%E2%80%94%E7%AA%97%E6%B4%9E%E5%8F%A3%E9%9D%A2%E7%A7%AF(m2%20);%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="Az ——室内表面总面积(m2 );" _mubu_text="%3Cspan%3EAz%20%E2%80%94%E2%80%94%E5%AE%A4%E5%86%85%E8%A1%A8%E9%9D%A2%E6%80%BB%E9%9D%A2%E7%A7%AF(m2%20);%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="ρc——室内各表面反射比的加权平均值;" _mubu_text="%3Cspan%3E%CF%81c%E2%80%94%E2%80%94%E5%AE%A4%E5%86%85%E5%90%84%E8%A1%A8%E9%9D%A2%E5%8F%8D%E5%B0%84%E6%AF%94%E7%9A%84%E5%8A%A0%E6%9D%83%E5%B9%B3%E5%9D%87%E5%80%BC;%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="θ一一从窗中心点计算的垂直可见天空的" _mubu_text="%3Cspan%3E%CE%B8%E4%B8%80%E4%B8%80%E4%BB%8E%E7%AA%97%E4%B8%AD%E5%BF%83%E7%82%B9%E8%AE%A1%E7%AE%97%E7%9A%84%E5%9E%82%E7%9B%B4%E5%8F%AF%E8%A7%81%E5%A4%A9%E7%A9%BA%E7%9A%84%3C/span%3E" _note="" _mubu_note=""/>
+            <outline text="角度值，无室外遮挡θ为90°" _mubu_text="%3Cspan%3E%E8%A7%92%E5%BA%A6%E5%80%BC%EF%BC%8C%E6%97%A0%E5%AE%A4%E5%A4%96%E9%81%AE%E6%8C%A1%CE%B8%E4%B8%BA90%C2%B0%3C/span%3E" _note="" _mubu_note=""/>
+          </outline>
+        </outline>
+        <outline text="顶部采光计算" _mubu_text="%3Cspan%3E%E9%A1%B6%E9%83%A8%E9%87%87%E5%85%89%E8%AE%A1%E7%AE%97%3C/span%3E" _note="" _mubu_note="">
+          <outline text="" _mubu_text="" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%2222916ad9495ce815d-2949183%22%2C%22oh%22%3A116%2C%22ow%22%3A303%2C%22uri%22%3A%22document_image%2F1a21113c-e8f3-4044-b72b-bc84aeac3d3c-2949183.jpg%22%2C%22w%22%3A159%7D%5D">
+              <outline text="Cav——采光系数平均值(%) ;" _mubu_text="%3Cspan%3ECav%E2%80%94%E2%80%94%E9%87%87%E5%85%89%E7%B3%BB%E6%95%B0%E5%B9%B3%E5%9D%87%E5%80%BC(%25)%20;%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="τ—— 窗的总透射比，" _mubu_text="%3Cspan%3E%CF%84%E2%80%94%E2%80%94%20%E7%AA%97%E7%9A%84%E6%80%BB%E9%80%8F%E5%B0%84%E6%AF%94%EF%BC%8C%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="CU ——利用系数，" _mubu_text="%3Cspan%3ECU%20%E2%80%94%E2%80%94%E5%88%A9%E7%94%A8%E7%B3%BB%E6%95%B0%EF%BC%8C%3C/span%3E" _note="" _mubu_note=""/>
+              <outline text="Ac/Ad ——窗地面积比。" _mubu_text="%3Cspan%3EAc/Ad%20%E2%80%94%E2%80%94%E7%AA%97%E5%9C%B0%E9%9D%A2%E7%A7%AF%E6%AF%94%E3%80%82%3C/span%3E" _note="" _mubu_note=""/>
+            </outline>
+          </outline>
+          <outline text="" _mubu_text="" _note="" _mubu_note="">
+            <outline text="" _mubu_text="" _note="" _mubu_note="" _mubu_images="%5B%7B%22id%22%3A%223c116ad96663f412e-2949183%22%2C%22oh%22%3A258%2C%22ow%22%3A502%2C%22uri%22%3A%22document_image%2Fa3ed25ca-c489-4a7f-8ed9-3e95ed5f45d1-2949183.jpg%22%7D%5D"/>
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note="">
+      <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+  </body>
+</opml>

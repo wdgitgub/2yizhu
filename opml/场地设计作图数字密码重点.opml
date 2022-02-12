@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>场地设计作图数字密码重点</title>
+  </head>
+  <body>
+    <outline text="总平面" _mubu_text="%3Cspan%3E%E6%80%BB%E5%B9%B3%E9%9D%A2%3C/span%3E" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="1" _mubu_text="%3Cspan%3E1%3C/span%3E" _note="" _mubu_note=""/>
+    <outline text="2" _mubu_text="%3Cspan%3E2%3C/span%3E" _note="" _mubu_note="">
+      <outline text="地面坡度最小0.2%" _mubu_text="%3Cspan%3E%E5%9C%B0%E9%9D%A2%E5%9D%A1%E5%BA%A6%E6%9C%80%E5%B0%8F0.2%25%3C/span%3E" _note="" _mubu_note="">
+        <outline text="民用建筑设计统一标准 [附条文说明] GB50352-2019" _mubu_text="%3Ca%20class=%22content-link%22%20data-id=%22d3e5749fff2a3a354828a970940d327a%22%20target=%22_blank%22%20spellcheck=%22false%22%20rel=%22noreferrer%22%20href=%22http://www.jianbiaoku.com/webarbs/book/404/3907637.shtml%22%3E%3Cspan%20class=%22content-link-text%22%3E%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%20%5B%E9%99%84%E6%9D%A1%E6%96%87%E8%AF%B4%E6%98%8E%5D%20GB50352-2019%3C/span%3E%3C/a%3E" _note="" _mubu_note=""/>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="4" _mubu_text="%3Cspan%3E4%3C/span%3E" _note="" _mubu_note="">
+      <outline text="单向行驶的出入口宽度不应小于4．0m，" _mubu_text="%3Cspan%3E%E5%8D%95%E5%90%91%E8%A1%8C%E9%A9%B6%E7%9A%84%E5%87%BA%E5%85%A5%E5%8F%A3%E5%AE%BD%E5%BA%A6%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E4%EF%BC%8E0m%EF%BC%8C%3C/span%3E" _note="" _mubu_note="">
+        <outline text="民用建筑设计统一标准 [附条文说明] GB50352-2019" _mubu_text="%3Ca%20class=%22content-link%22%20data-id=%222e735126b0cdc6f8116322491edd332b%22%20target=%22_blank%22%20spellcheck=%22false%22%20rel=%22noreferrer%22%20href=%22http://www.jianbiaoku.com/webarbs/book/404/3907637.shtml%22%3E%3Cspan%20class=%22content-link-text%22%3E%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%20%5B%E9%99%84%E6%9D%A1%E6%96%87%E8%AF%B4%E6%98%8E%5D%20GB50352-2019%3C/span%3E%3C/a%3E" _note="" _mubu_note=""/>
+      </outline>
+    </outline>
+    <outline text="5" _mubu_text="%3Cspan%3E5%3C/span%3E" _note="" _mubu_note="">
+      <outline text="场地设计标高高于设计洪水位0．5m 如果低于的话  不应低于内涝水位0．5m" _mubu_text="%3Cspan%3E%E5%9C%BA%E5%9C%B0%E8%AE%BE%E8%AE%A1%E6%A0%87%E9%AB%98%E9%AB%98%E4%BA%8E%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%BD%8D0%EF%BC%8E5m%20%E5%A6%82%E6%9E%9C%E4%BD%8E%E4%BA%8E%E7%9A%84%E8%AF%9D%20%20%E4%B8%8D%E5%BA%94%E4%BD%8E%E4%BA%8E%E5%86%85%E6%B6%9D%E6%B0%B4%E4%BD%8D0%EF%BC%8E5m%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="7" _mubu_text="%3Cspan%3E7%3C/span%3E" _note="" _mubu_note="">
+      <outline text="双向行驶的出入口宽度不应小于7．0m。" _mubu_text="%3Cspan%3E%E5%8F%8C%E5%90%91%E8%A1%8C%E9%A9%B6%E7%9A%84%E5%87%BA%E5%85%A5%E5%8F%A3%E5%AE%BD%E5%BA%A6%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E7%EF%BC%8E0m%E3%80%82%3C/span%3E" _note="" _mubu_note="">
+        <outline text="民用建筑设计统一标准 [附条文说明] GB50352-2019" _mubu_text="%3Ca%20class=%22content-link%22%20data-id=%22585ac92ba2ff894ad973245f783be4d3%22%20target=%22_blank%22%20spellcheck=%22false%22%20rel=%22noreferrer%22%20href=%22http://www.jianbiaoku.com/webarbs/book/404/3907637.shtml%22%3E%3Cspan%20class=%22content-link-text%22%3E%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%20%5B%E9%99%84%E6%9D%A1%E6%96%87%E8%AF%B4%E6%98%8E%5D%20GB50352-2019%3C/span%3E%3C/a%3E" _note="" _mubu_note=""/>
+      </outline>
+    </outline>
+    <outline text="8" _mubu_text="%3Cspan%3E8%3C/span%3E" _note="" _mubu_note="">
+      <outline text="坡度当大于8％台阶" _mubu_text="%3Cspan%3E%E5%9D%A1%E5%BA%A6%E5%BD%93%E5%A4%A7%E4%BA%8E8%EF%BC%85%E5%8F%B0%E9%98%B6%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="15" _mubu_text="%3Cspan%3E15%3C/span%3E" _note="" _mubu_note="">
+      <outline text="大于300辆停车位的停车场，各出入口的间距不应小于15．0m" _mubu_text="%3Cspan%3E%E5%A4%A7%E4%BA%8E300%E8%BE%86%E5%81%9C%E8%BD%A6%E4%BD%8D%E7%9A%84%E5%81%9C%E8%BD%A6%E5%9C%BA%EF%BC%8C%E5%90%84%E5%87%BA%E5%85%A5%E5%8F%A3%E7%9A%84%E9%97%B4%E8%B7%9D%E4%B8%8D%E5%BA%94%E5%B0%8F%E4%BA%8E15%EF%BC%8E0m%3C/span%3E" _note="" _mubu_note="">
+        <outline text="民用建筑设计统一标准 [附条文说明] GB50352-2019" _mubu_text="%3Ca%20class=%22content-link%22%20data-id=%228d010652ecc1026ce4633bb2c4bb231d%22%20target=%22_blank%22%20spellcheck=%22false%22%20rel=%22noreferrer%22%20href=%22http://www.jianbiaoku.com/webarbs/book/404/3907637.shtml%22%3E%3Cspan%20class=%22content-link-text%22%3E%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%20%5B%E9%99%84%E6%9D%A1%E6%96%87%E8%AF%B4%E6%98%8E%5D%20GB50352-2019%3C/span%3E%3C/a%3E" _note="" _mubu_note=""/>
+      </outline>
+      <outline text="人行道-草地路沿到入口左边最小70米" _mubu_text="%3Cspan%3E%E4%BA%BA%E8%A1%8C%E9%81%93-%E8%8D%89%E5%9C%B0%E8%B7%AF%E6%B2%BF%E5%88%B0%E5%85%A5%E5%8F%A3%E5%B7%A6%E8%BE%B9%E6%9C%80%E5%B0%8F70%E7%B1%B3%3C/span%3E" _note="" _mubu_note="">
+        <outline text="民用建筑设计统一标准 [附条文说明] GB50352-2019" _mubu_text="%3Ca%20class=%22content-link%22%20data-id=%2273cb079e64c0ca259694a7f4845102fb%22%20target=%22_blank%22%20spellcheck=%22false%22%20rel=%22noreferrer%22%20href=%22http://www.jianbiaoku.com/webarbs/book/404/3907637.shtml%22%3E%3Cspan%20class=%22content-link-text%22%3E%E6%B0%91%E7%94%A8%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%20%5B%E9%99%84%E6%9D%A1%E6%96%87%E8%AF%B4%E6%98%8E%5D%20GB50352-2019%3C/span%3E%3C/a%3E" _note="" _mubu_note=""/>
+      </outline>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="51" _mubu_text="%3Cspan%3E51%3C/span%3E" _note="" _mubu_note="">
+      <outline text="停车总平面   51辆及以下时，可设1个出入口" _mubu_text="%3Cspan%3E%E5%81%9C%E8%BD%A6%E6%80%BB%E5%B9%B3%E9%9D%A2%20%20%2051%E8%BE%86%E5%8F%8A%E4%BB%A5%E4%B8%8B%E6%97%B6%EF%BC%8C%E5%8F%AF%E8%AE%BE1%E4%B8%AA%E5%87%BA%E5%85%A5%E5%8F%A3%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="停车总平面  车数为501辆3个双向出入口" _mubu_text="%3Cspan%3E%E5%81%9C%E8%BD%A6%E6%80%BB%E5%B9%B3%E9%9D%A2%20%20%E8%BD%A6%E6%95%B0%E4%B8%BA501%E8%BE%863%E4%B8%AA%E5%8F%8C%E5%90%91%E5%87%BA%E5%85%A5%E5%8F%A3%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="70" _mubu_text="%3Cspan%3E70%3C/span%3E" _note="" _mubu_note=""/>
+    <outline text="301" _mubu_text="%3Cspan%3E301%3C/span%3E" _note="" _mubu_note="">
+      <outline text="停车总平面   车数为301辆2个双向出入口" _mubu_text="%3Cspan%3E%E5%81%9C%E8%BD%A6%E6%80%BB%E5%B9%B3%E9%9D%A2%20%20%20%E8%BD%A6%E6%95%B0%E4%B8%BA301%E8%BE%862%E4%B8%AA%E5%8F%8C%E5%90%91%E5%87%BA%E5%85%A5%E5%8F%A3%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+    <outline text="" _mubu_text="" _note="" _mubu_note=""/>
+  </body>
+</opml>

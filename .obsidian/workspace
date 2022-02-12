@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "d0dda497ff2d74c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ea798d466fd431",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a57b4a116f50b36e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d4fea96888ccf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42b4c95837914c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3a1e451c6bdd7c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcce0ad3759dccf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2c79c84fd2d490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b50ec92258c0d19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52ea798d466fd431",
+  "lastOpenFiles": [
+    "设计前期场地与建筑设计（知识）第四章  中国古代建筑史.md"
+  ]
+}
